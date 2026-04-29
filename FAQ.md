@@ -5,13 +5,13 @@
 ### General
 
 **What is the Arkiv × ETHNS Builder Challenge?**
-An invitation to build a web3-native application using Arkiv as the data layer, hosted with Network School during Genesis Block Month (May 2026). Pick one of three open themes — AI, Privacy, or DePIN (or hybridise). Two winners each receive a **$1,500 USDC stipend toward a one-month stay at Network School**.
+An invitation to build a web3-native application using Arkiv as the data layer, hosted with Network School during Genesis Block Month (May 2026). Pick one of three open themes — AI, Privacy, or DePIN (or hybridise). Two winners each receive a **$1,500 USDC stipend and a 1-month Network School membership**.
 
 **Who can participate?**
 Anyone 18+, anywhere in the world. Solo or team. Hybrid format — you can build IRL at Network School or fully remote.
 
 **Do I need to be at Network School to win?**
-Participation is open globally — solo or team, IRL at NS or fully remote, anywhere in the world. The prize itself, however, is a stipend earmarked to fund a one-month stay at NS. If your schedule can't accommodate a stay, talk to the Organizer — deferring to a later month may be possible, but the stipend isn't a no-strings cash payout.
+No. The challenge is open to virtual participants worldwide. Winners who choose to redeem the NS month membership get a 1-month residency at NS (Forest City, Malaysia) — but participation itself is fully remote-friendly.
 
 **Do I need to know Arkiv beforehand?**
 No. The May 15 IRL Arkiv 101 Workshop and the pre-challenge X Spaces (May 1–14) cover the basics. The mental model, per-theme entity design, and getting-started steps live in the [Builder's Guide](docs/builders-guide.md).
@@ -56,10 +56,10 @@ Yes. There's no cap per theme.
 ### Teams & Submissions
 
 **Can I participate as a team?**
-Yes. The team size limit is 5 members. There's only one prize per winning team — a $1,500 USDC stipend earmarked toward one team member's one-month NS stay. The team picks who attends.
+Yes. The team size limit is 5 members. There's only one prize per winning team — $1,500 USDC + 1 NS month membership. How you split the stipend (and who attends NS) is up to you.
 
 **If my team wins, how is the prize distributed?**
-All team members must complete KYC, and the $1,500 is sent to one wallet. The NS stay is for one team member, chosen by the team. See [RULES Section 7](RULES.md#7-kyc--prize-disbursement) for the full disbursement process.
+All team members must complete KYC, and the $1,500 is sent to one wallet. The NS membership is for one team member of the team's choice. See [RULES Section 7](RULES.md#7-kyc--prize-disbursement) for the full disbursement process.
 
 **Can I submit more than one project?**
 No. One submission per individual or team. If you submit multiple times, only the last submission counts.
@@ -117,13 +117,15 @@ Yes — `arkiv-best-practices`. Install it in your AI coding assistant (Claude C
 ### Prizes & Travel
 
 **What exactly do I win?**
-Each of the two winners receives a **$1,500 USDC stipend** earmarked to fund a **one-month stay at Network School** (Forest City, Malaysia). The stipend is paid to your EVM wallet; the NS stay month is your choice, subject to NS availability.
+Each of the two winners receives:
+- **$1,500 USDC** — paid to the EVM wallet address you provide
+- **1-month Network School membership** — for the month of your choice (subject to NS availability)
 
-**What does a one-month stay at Network School involve?**
-A 1-month residency on the NS campus in Forest City, Malaysia. It includes housing, programming, and the NS community for the month you attend. See [ns.com](https://ns.com) for what's covered.
+**What's a Network School membership?**
+A 1-month residency at the Network School campus (Forest City, Malaysia). It includes housing, programming, and the NS community for the month you attend. See [ns.com](https://ns.com) for what's covered.
 
 **What if I can't travel to Network School?**
-The stipend is purpose-bound to the NS stay — it's not a no-strings cash prize. If your schedule can't accommodate the stay, talk to the Organizer; deferring to a later month may be possible, but isn't guaranteed.
+The stipend is still yours regardless. The NS month membership is forfeited (not converted to extra cash) if you can't or don't want to attend. The cash + membership are decoupled.
 
 **What if I win but can't complete KYC?**
 The prize may transfer to the next-ranked submission. You have 3 days to complete KYC after being notified.

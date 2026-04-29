@@ -9,7 +9,7 @@
 ---
 **Stop 1 of the [ ARKIV ] Web3 Database Bus Tour.**
 
-We're partnering with [Network School](https://ns.com) for the first Ethereum-focused month at NS — Genesis Block Month — and we're bringing a Builder Challenge with us. Two winners each get a **$1,500 USDC stipend toward a one-month stay at Network School** — month of their choice, subject to NS availability.
+We're partnering with [Network School](https://ns.com) for the first Ethereum-focused month at NS — Genesis Block Month — and we're bringing a Builder Challenge with us. Two winners each get a **$1,500 USDC stipend + a 1-month Network School membership** for the month of their choice.
 
 The Challenge is hybrid: build IRL on the NS campus in Forest City, Malaysia, or fully remote from anywhere. Anyone can join.
 
@@ -35,8 +35,10 @@ For more informaiton on the themes, check out our **[Builder's Guide](docs/build
 
 **The obvious:**
 
-- **Two winners**, each receiving a **$1,500 USDC stipend** earmarked toward a **one-month stay at Network School** (Forest City, Malaysia). Month of your choice, subject to NS availability.
-- The stipend is purpose-bound to the NS stay — it's not a no-strings cash prize. If your schedule can't accommodate a stay, talk to the Organizer about deferring.
+- **Two winners**, each receiving:
+  - **$1,500 USDC** to your wallet, to be used towards travel costs
+  - **1-month Network School membership** for the month of your choice (subject to NS availability)
+- The cash and the NS month are decoupled — if you can't or don't want to travel to NS, you keep the stipend.
 
 **The less obvious:**
 
@@ -75,11 +77,14 @@ For more informaiton on the themes, check out our **[Builder's Guide](docs/build
 
 ## Prize
 
-Each winner receives a **$1,500 USDC stipend** earmarked to fund a **one-month stay at Network School** (Forest City, Malaysia). Stipend is paid to the team's EVM wallet; month of stay is the winner's choice, subject to NS availability.
+| Prize | Each winner receives |
+| :---- | :---- |
+| **Cash stipend** | $1,500 USDC to the EVM wallet of the team's choice |
+| **NS membership** | 1-month residency at Network School (Forest City, Malaysia), month of winner's choice, subject to NS availability |
 
-**Total prize pool: $3,000 USDC across two winners.**
+**Total prize pool: $3,000 USDC + 2 × NS month memberships.**
 
-TO BE CONFIRMED: One prize per winning team — the stipend funds one team member's NS stay; the team picks who attends. KYC is required to claim the prize, not to enter. Full prize and disbursement terms: [RULES Section 5](RULES.md#5-prizes) and [Section 7](RULES.md#7-kyc--prize-disbursement).
+TO BE CONFIRMED: One prize per winning team — how the team splits the stipend (and who attends NS) is up to them. KYC is required to claim the prize, not to enter. Full prize and disbursement terms: [RULES Section 5](RULES.md#5-prizes) and [Section 7](RULES.md#7-kyc--prize-disbursement).
 
 ---
 
