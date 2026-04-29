@@ -4,7 +4,7 @@ This file provides context for AI coding assistants (Claude Code, Cursor, Copilo
 
 ## What is this repo?
 
-The official rules, guides, and resources for the **Arkiv × ETHNS Builder Challenge** — a 9-day challenge to build a web3-native application using [Arkiv](https://arkiv.network) as the data layer, hosted with [Network School](https://ns.com) during Genesis Block Month (May 2026). Two winners each receive a **$1,500 USDC stipend + 1-month Network School membership**.
+The official rules, guides, and resources for the **Arkiv × ETHNS Builder Challenge** — a 9-day challenge to build a web3-native application using [Arkiv](https://arkiv.network) as the data layer, hosted with [Network School](https://ns.com) during Genesis Block Month (May 2026). Two winners each receive a **$1,500 USDC stipend toward a one-month stay at Network School**.
 
 ## Doc Map
 
@@ -19,7 +19,7 @@ The official rules, guides, and resources for the **Arkiv × ETHNS Builder Chall
 
 ## Key Facts
 
-- **Prize:** $1,500 USDC + 1-month NS membership per winner (2 winners).
+- **Prize:** $1,500 USDC stipend toward a one-month stay at NS, per winner (2 winners). The stipend is purpose-bound to the NS stay, not a no-strings cash prize.
 - **Themes:** AI, Privacy, or DePIN. Pick one or hybridise. Single rubric across all three.
 - **Scoring weights:** Arkiv integration depth (40%), Functionality (30%), Design & UX (20%), Code quality & docs (10%).
 - **All entities expire.** Expiration dates are core to Arkiv, not optional. Shorter-lived = cheaper on mainnet. Builders should choose expiration dates thoughtfully.
