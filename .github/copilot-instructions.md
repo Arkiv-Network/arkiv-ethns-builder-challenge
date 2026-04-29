@@ -19,7 +19,7 @@ The official rules, guides, and resources for the **Arkiv × ETHNS Builder Chall
 
 ## Key Facts
 
-- **Prize:** $1,500 USDC per winner (2 winners), intended toward a one-month stay at Network School. If a winner can't or doesn't want to attend NS, they keep the cash — attendance is not a condition of receiving the prize.
+- **Prize:** $1,500 USDC per winner (2 winners), intended toward a one-month stay at Network School. If a winner can't or doesn't want to attend NS, they keep the stipend — attendance is not a condition of receiving the prize.
 - **Themes:** AI, Privacy, or DePIN. Pick one or hybridise. Single rubric across all three.
 - **Scoring weights:** Arkiv integration depth (40%), Functionality (30%), Design & UX (20%), Code quality & docs (10%).
 - **All entities expire.** Expiration dates are core to Arkiv, not optional. Shorter-lived = cheaper on mainnet. Builders should choose expiration dates thoughtfully.

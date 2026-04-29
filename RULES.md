@@ -78,7 +78,7 @@ All submissions must include:
 
 - **Currency:** Stipend disbursed in USDC to the EVM wallet address provided by the winner.
 - **Intended use:** The stipend is intended to fund a one-month stay at Network School (Forest City, Malaysia). Winners pick the month, subject to NS application and availability. Travel, visa applications, accommodation, and any costs related to the NS stay are the winner's responsibility — the $1,500 is intended to cover these costs at the winner's discretion.
-- **If a winner cannot or chooses not to attend NS, they keep the stipend.** The stipend is paid as cash regardless of attendance.
+- **If a winner cannot or chooses not to attend NS, they keep the stipend.** The stipend is paid in USDC regardless of attendance.
 - **One prize per team.** If a winning team has multiple members, the team receives one stipend ($1,500). How the team splits the stipend (and who, if anyone, attends NS) is the team's responsibility.
 - **KYC is required to claim the prize, not to enter.** All team members must complete KYC individually before funds are disbursed. The stipend is sent to a single wallet address confirmed by all team members during the KYC process. See Section 7.
 - **Prize is non-transferable** except as described in the runner-up policy (Section 6).
@@ -194,7 +194,7 @@ Violations may result in disqualification at the Organizer's sole discretion.
 ## 11. Liability & Disclaimers
 
 - The Organizer is not responsible for technical failures, network issues, or Arkiv testnet downtime that may affect participants' ability to build or submit
-- The Organizer is not responsible for travel arrangements, visa applications, accommodation, or any costs beyond the stated cash stipend
+- The Organizer is not responsible for travel arrangements, visa applications, accommodation, or any costs beyond the stated stipend
 - The Organizer reserves the right to modify these rules, extend deadlines, or cancel the Challenge if circumstances require it. Participants will be notified of any changes via Discord and the official announcement channels.
 - In the event of cancellation, no prizes will be awarded unless submissions have already been received and judged
 - The Organizer's total liability is limited to the stated prize amounts

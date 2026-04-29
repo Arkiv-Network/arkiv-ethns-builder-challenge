@@ -19,7 +19,7 @@ This repo contains the official rules, guides, and resources for the Arkiv × ET
 
 ## Key facts
 
-- Prize: $1,500 USDC per winner (2 winners), intended toward a one-month stay at Network School. If a winner can't or doesn't want to attend NS, they keep the cash.
+- Prize: $1,500 USDC per winner (2 winners), intended toward a one-month stay at Network School. If a winner can't or doesn't want to attend NS, they keep the stipend.
 - Themes: AI, Privacy, or DePIN. Pick one or hybridise.
 - Scoring: Arkiv integration depth 40%, functionality 30%, design and UX 20%, code quality and docs 10%.
 - All entities expire. Use `expiration dates`, never `TTL`.
