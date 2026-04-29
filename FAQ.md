@@ -14,7 +14,7 @@ Anyone 18+, anywhere in the world. Solo or team. Hybrid format — you can build
 No. The challenge is open to virtual participants worldwide. Winners who choose to redeem the NS month membership get a 1-month residency at NS (Forest City, Malaysia) — but participation itself is fully remote-friendly.
 
 **Do I need to know Arkiv beforehand?**
-No. The May 15 IRL Arkiv 101 Workshop and the pre-challenge X Spaces (May 1–14) cover the basics. The SDK, starter kit, reference patterns, and documentation are all in this repo.
+No. The May 15 IRL Arkiv 101 Workshop and the pre-challenge X Spaces (May 1–14) cover the basics. The mental model, per-theme entity design, and getting-started steps live in the [Builder's Guide](docs/builders-guide.md).
 
 **Where are the rules hosted?**
 In this repo — see [RULES.md](RULES.md). They're also pinned in **#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and shared in the relevant Network School channel.
@@ -37,13 +37,10 @@ Yes for libraries, frameworks, and boilerplate. The Arkiv integration and core a
 | **Privacy** | Confidential data patterns on a public, tamper-proof layer | Encrypted payloads, ZK proofs, selective disclosure |
 | **DePIN** | Queryable data layer for sensor / telemetry / device data | Time-scoped, tamper-proof readings — the missing layer for physical-world networks |
 
-Full descriptions and concrete-build menus are in the [Builder's Guide](docs/builders-guide.md).
+Full descriptions are in the [Builder's Guide](docs/builders-guide.md).
 
 **Do I have to pick one of the three?**
 Yes — your submission must address at least one. You can also hybridise (e.g., privacy-preserving DePIN, AI agent with encrypted memory). State your theme(s) in the submission form.
-
-**Is one theme easier or harder than the others?**
-Privacy is the highest-skill — it requires layering ZK or encryption on top of Arkiv. AI and DePIN are more approachable for builders new to crypto-cryptography. The four [reference patterns](docs/reference-patterns/) we publish before kickoff give you a starting point regardless of which theme you pick. All themes are scored on the same rubric.
 
 **Does my theme affect my score?**
 No. All themes are scored on the same rubric (40% Arkiv integration depth, 30% functionality, 20% design/UX, 10% code quality).
@@ -78,7 +75,7 @@ Your chosen theme(s), public GitHub repo, working demo URL, README with setup in
 ### Building
 
 **Where do I find requirements for my theme?**
-The [Builder's Guide](docs/builders-guide.md) describes each theme with concrete build ideas, entity-design hints, and expiration guidance. The [reference patterns](docs/reference-patterns/) give you starter implementations.
+The [Builder's Guide](docs/builders-guide.md) describes each theme with concrete build ideas, entity-design hints, and expiration guidance.
 
 **Can I use any tech stack?**
 Yes. Arkiv is the data layer — pick whatever you want for the frontend, styling, wallet connection, hosting, and (for the AI theme) the LLM you wrap.
@@ -87,7 +84,7 @@ Yes. Arkiv is the data layer — pick whatever you want for the frontend, stylin
 Not required. It's a nice-to-have. You can build a fully functional submission using only the Arkiv SDK.
 
 **What chain does this run on?**
-Arkiv testnet — **Kaolin** (Hoodi-based):
+Arkiv testnet — **Kaolin**:
 
 | | |
 |---|---|
@@ -95,8 +92,19 @@ Arkiv testnet — **Kaolin** (Hoodi-based):
 | **HTTP RPC** | `https://kaolin.hoodi.arkiv.network/rpc` |
 | **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
 | **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
+| **Faucet** | [kaolin.hoodi.arkiv.network/faucet](https://kaolin.hoodi.arkiv.network/faucet/) |
+| **Explorer** | [explorer.kaolin.hoodi.arkiv.network](https://explorer.kaolin.hoodi.arkiv.network/) |
 
-If you're using the TS/JS SDK, use `@arkiv-network/sdk` **v0.6.0 or newer**.
+Use `@arkiv-network/sdk` **v0.6.0 or newer**.
+
+**Is my data private? Can other projects see it?**
+Arkiv is a **shared, public database** — every entity is publicly readable, and your project shares the store with everyone else's. Two practical consequences:
+
+1. **PROJECT_ATTRIBUTE.** Every project must define a unique attribute and stamp it on every entity *and* every query. Without it, your queries return everyone else's data and vice versa. This is mandatory and is graded — see the [Builder's Guide](docs/builders-guide.md).
+2. **Privacy theme.** If you need confidentiality, encrypt the payload bytes before storing the entity. Arkiv stores the encrypted payload; only key-holders can decrypt. There's no public/private toggle at the protocol level — the encryption layer is yours to design.
+
+**Who can edit or delete my entities?**
+Only the **`$owner`** (the wallet that currently controls the entity). Ownership can be transferred. Separately, **`$creator`** is set immutably at creation — useful for tamper-proof attribution (e.g., verifying a DePIN reading came from a specific device wallet via `.createdBy(deviceWallet)`).
 
 **Where do I get help if I'm stuck?**
 **#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and the dedicated Network School channel. The Arkiv team is on call daily during the build window. There's also an Office Hour planned during the build window — date announced in Discord.
@@ -145,7 +153,7 @@ See the [Scoring Rubric](docs/scoring-rubric.md) for detailed sub-criteria.
 The rubric is theme-agnostic. "Arkiv integration depth" means the same thing whether you built an AI agent memory layer, an encrypted-payload pattern, or a DePIN sensor archive — proper entity schemas, queryable attributes, wallet ownership, entity relationships, thoughtful expiration dates.
 
 **Who are the judges?**
-The judging panel is published in the [README](README.md) before kickoff. It includes Arkiv Product and Platform representatives plus at least one external judge from a previous Arkiv hackathon. The Network School operations team does not judge.
+The judging panel is published in the [README](README.md) before kickoff. It includes Arkiv Product and Tech representatives plus at least one external judge from a previous Arkiv hackathon. The Network School operations team does not judge.
 
 **Can I get feedback on my submission?**
 Winners get feedback through the announcement Space on May 29. Individual feedback for non-winners may happen post-challenge but isn't guaranteed.

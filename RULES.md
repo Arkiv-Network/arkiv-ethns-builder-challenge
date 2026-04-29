@@ -25,7 +25,6 @@ The Arkiv × ETHNS Builder Challenge ("Challenge") is organized by Golem Factory
 - **Pre-challenge content:** May 1–14, 2026 (X Spaces, online workshops)
 - **Arkiv 101 Workshop (IRL @ NS):** May 15, 2026
 - **Submissions open / Challenge kickstart:** May 16, 2026 (during ETHNS EVM Day)
-- **Final-push activations (IRL @ NS):** May 23–24, 2026 (ETHNS Open Days — Open Hardware + Privacy)
 - **Submissions close:** May 25, 2026 at 23:59 SGT
 - **Judging period:** May 26–28, 2026
 - **Winners announced:** May 29, 2026 (live X Space with the judging panel)
@@ -40,12 +39,12 @@ All submissions must be made via the official submission form *(URL published be
 
 All submissions must include:
 
-| Requirement | Details |
-|-------------|---------|
-| **GitHub repository** | Public repo with open source license (MIT, Apache 2.0, or equivalent) |
-| **Working demo** | Deployed and accessible via URL, connected to Arkiv testnet |
-| **README** | Setup instructions, tech stack used, team members, chosen theme(s), and a brief description of your approach |
-| **Submission form** | Completed official submission form with repo link, demo link, team info, chosen theme(s), and wallet address |
+| Requirement           | Details                                                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **GitHub repository** | Public repo with open source license (MIT, Apache 2.0, or equivalent)                                                           |
+| **Working demo**      | Deployed and accessible via URL, connected to Arkiv testnet                                                                     |
+| **README**            | Setup instructions, tech stack used, team members, chosen theme(s), and a brief description of your approach and what you built |
+| **Submission form**   | Completed official submission form with repo link, demo link, team info, chosen theme(s), and wallet address                    |
 
 ### What counts as a valid submission
 

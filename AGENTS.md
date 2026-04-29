@@ -12,10 +12,8 @@ This repo contains the official rules, guides, and resources for the Arkiv × ET
 |----------|------|
 | What is the challenge? | `README.md` |
 | What should builders create? | `docs/builders-guide.md` |
-| Reference patterns per theme | `docs/reference-patterns/` |
 | Rules, eligibility, prizes, legal terms | `RULES.md` |
 | How submissions are scored | `docs/scoring-rubric.md` |
-| Workshop material | `docs/workshop-arkiv-101.md` |
 | Common questions | `FAQ.md` |
 
 ## Key facts
@@ -40,29 +38,36 @@ Use Kaolin for all building.
 | HTTP RPC | `https://kaolin.hoodi.arkiv.network/rpc` |
 | WebSocket RPC | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
 | Standard Bridge | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
+| Faucet | `https://kaolin.hoodi.arkiv.network/faucet/` |
+| Explorer | `https://explorer.kaolin.hoodi.arkiv.network/` |
 | TS/JS SDK | `@arkiv-network/sdk` v0.6.0 or newer |
 
 ## Minimum technical requirements
 
 Every submission must:
+- Use the official `@arkiv-network/sdk` (TypeScript v0.6.0+).
+- Define a unique `PROJECT_ATTRIBUTE` and stamp it on every entity / every query — Arkiv is a shared DB.
 - Store core data as Arkiv entities, not a traditional database. Encrypted payloads stored as entities count for the Privacy theme.
-- Use wallet-based ownership.
-- Include at least 2 entity types with a relationship.
-- Use queryable attributes for filtering or search.
-- Set rational expiration dates.
-- Allow public read access for non-encrypted entities (no wallet needed to browse).
-- Be open source on GitHub with a working demo and README.
+- At least 2 entity types, related via shared-attribute foreign-key (no built-in `references` field).
+- Numeric values stored as numeric attributes (range queries work); strings as string attributes (eq / glob only).
+- Right-sized `expiresIn` durations using `ExpirationTime` helpers — different per entity type.
+- Use `$owner` (mutable, controls writes) and `$creator` (immutable, tamper-proof attribution) correctly.
+- Open source on GitHub with a working demo and README.
+
+All Arkiv entities are publicly readable. Privacy = encrypted payload, not a public/private toggle.
 
 ## Operating boundaries
 
 ### Always do
 
 - Point builders to the published docs before inventing explanations.
-- Use `docs/builders-guide.md` for theme guidance and `docs/reference-patterns/` for starter patterns.
+- Use `docs/builders-guide.md` for theme guidance and per-theme entity models.
 - Use `docs/scoring-rubric.md` when asked how to score well.
 - Use `RULES.md` for eligibility, prizes, deadlines, or legal terms.
 - Preserve the challenge framing, published rubric, and official requirements.
 - Respect Arkiv's language conventions: "tamper-proof" (not "verifiable"), "expiration dates" (not "TTL"), "Arkiv" (never "Golem Base").
+- Stamp `PROJECT_ATTRIBUTE` on every entity create and every query. Without it, queries leak data from other projects in the shared DB.
+- Default to `walletClient.mutateEntities({ creates: [...] })` for batch creates and paginate reads via `result.hasNextPage()` / `result.next()`.
 
 ### Ask before
 
@@ -80,7 +85,8 @@ Every submission must:
 
 ## Builder guidance
 
-- Help builders think in entity types, relationships, queryable attributes, and expiration dates.
-- Three themes are open and hybridable. AI: agent memory on Arkiv. Privacy: encrypted payloads, ZK proofs, selective disclosure on top of public Arkiv. DePIN: time-scoped sensor and telemetry data.
+- Help builders think in **entities** (payload + typed attributes + `expiresIn` in seconds), **shared-attribute foreign keys** for relationships, and **`$owner` / `$creator`** for ownership and tamper-proof attribution.
+- Numeric attributes for range queries; string attributes for equality + glob. Attributes have no array type — model lists via one-attribute-per-value or via separate relationship entities.
+- Three themes are open and hybridable. AI: agent memory on Arkiv. Privacy: encrypted payloads + envelope encryption + access-grant entities, or ZK proofs anchored on Arkiv. DePIN: time-scoped sensor and telemetry data with batch creates and `$creator`-based provenance.
 - Suggest stack choices that fit the builder's experience, but keep Arkiv as the required data layer.
 - If Arkiv-specific issues come up, direct builders to `#builders-challenge` on the Arkiv Discord and the relevant Network School channel.
