@@ -205,7 +205,7 @@ State your theme(s) explicitly in the README and submission form.
 
 1. **Pick your theme** — whichever excites you most (or mix them)
 2. **Read the section for your theme** above — use the questions and directions to shape your build, not as a checklist
-3. **Read the [Arkiv docs](https://arkiv.network/docs)** and the [TypeScript SDK guide](https://arkiv.network/getting-started/typescript)
+3. **Read the [Arkiv docs](https://docs.arkiv.network)** and the [SDK fundamentals guide](https://docs.arkiv.network/start-here/fundamentals/)
 4. **Set up your project's `PROJECT_ATTRIBUTE`** before writing any entity code
 5. **Connect to Kaolin testnet** — [faucet](https://kaolin.hoodi.arkiv.network/faucet/), [explorer](https://explorer.kaolin.hoodi.arkiv.network/)
 6. **Get create + read + query working for one entity type first** — then add relationships, then add more types

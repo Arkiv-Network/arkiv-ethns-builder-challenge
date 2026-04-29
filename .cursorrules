@@ -30,10 +30,10 @@ The official rules, guides, and resources for the **Arkiv × ETHNS Builder Chall
 
 ## Arkiv Resources
 
-- **Documentation:** https://arkiv.network/docs
+- **Documentation:** https://docs.arkiv.network
 - **Developer Portal:** https://arkiv.network/dev
-- **TypeScript SDK:** https://arkiv.network/getting-started/typescript
-- **Python SDK:** https://arkiv.network/getting-started/python
+- **TypeScript SDK — Start here:** https://docs.arkiv.network/start-here/fundamentals/
+- **Python SDK — Start here:** https://docs.arkiv.network/start-here/fundamentals/
 
 ### Current Testnet: Kaolin
 

@@ -111,8 +111,8 @@ The Network School operations team does not participate in judging to maintain i
 
 | What               | Where                                                                                                                                              |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Arkiv Docs**     | [arkiv.network/docs](https://arkiv.network/docs) %%this need to point to docs.arkiv.network%%                                                      |
-| **TypeScript SDK** | [Getting started](https://arkiv.network/getting-started/typescript) %%this needs to point to https://docs.arkiv.network/start-here/fundamentals/%% |
+| **Arkiv Docs**     | [docs.arkiv.network](https://docs.arkiv.network)                                                                                                   |
+| **TypeScript SDK** | [Getting started](https://docs.arkiv.network/start-here/fundamentals/)                                                                             |
 
 ### Submit & Get Help
 
