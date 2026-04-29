@@ -4,6 +4,9 @@
 
 # Arkiv × ETHNS Builder Challenge
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/74e971a3-2fa9-4713-872d-11929a911188" />
+
+---
 **Stop 1 of the [ ARKIV ] Web3 Database Bus Tour.**
 
 We're partnering with [Network School](https://ns.com) for the first Ethereum-focused month at NS — Genesis Block Month — and we're bringing a Builder Challenge with us. Two winners each get a **$1,500 USDC stipend + a 1-month Network School membership** for the month of their choice.
