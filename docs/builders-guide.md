@@ -206,10 +206,11 @@ State your theme(s) explicitly in the README and submission form.
 1. **Pick your theme** — whichever excites you most (or mix them)
 2. **Read the section for your theme** above — use the questions and directions to shape your build, not as a checklist
 3. **Read the [Arkiv docs](https://docs.arkiv.network)** and the [SDK fundamentals guide](https://docs.arkiv.network/start-here/fundamentals/)
-4. **Set up your project's `PROJECT_ATTRIBUTE`** before writing any entity code
-5. **Connect to Kaolin testnet** — [faucet](https://kaolin.hoodi.arkiv.network/faucet/), [explorer](https://explorer.kaolin.hoodi.arkiv.network/)
-6. **Get create + read + query working for one entity type first** — then add relationships, then add more types
-7. **Join Discord support channel** — [Arkiv Discord](https://discord.gg/arkiv) → **#builders-challenge**
+4. **Install the [Arkiv agent skill](agent-skill.md)** in your AI coding assistant — `arkiv-best-practices` front-loads the SDK and integration patterns so your agent stops inventing things
+5. **Set up your project's `PROJECT_ATTRIBUTE`** before writing any entity code
+6. **Connect to Kaolin testnet** — [faucet](https://kaolin.hoodi.arkiv.network/faucet/), [explorer](https://explorer.kaolin.hoodi.arkiv.network/)
+7. **Get create + read + query working for one entity type first** — then add relationships, then add more types
+8. **Join Discord support channel** — [Arkiv Discord](https://discord.gg/arkiv) → **#builders-challenge**
 
 ---
 

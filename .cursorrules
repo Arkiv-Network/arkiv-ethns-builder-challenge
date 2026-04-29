@@ -12,6 +12,7 @@ The official rules, guides, and resources for the **Arkiv × ETHNS Builder Chall
 |----------|------|
 | What is the challenge? What's the pitch? | [README.md](README.md) |
 | What should I build? Requirements? Getting started? | [docs/builders-guide.md](docs/builders-guide.md) |
+| Install the official Arkiv agent skill | [docs/agent-skill.md](docs/agent-skill.md) |
 | Official rules, eligibility, prizes, legal? | [RULES.md](RULES.md) |
 | How is my submission scored? | [docs/scoring-rubric.md](docs/scoring-rubric.md) |
 | Common questions? | [FAQ.md](FAQ.md) |

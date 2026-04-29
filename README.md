@@ -113,6 +113,7 @@ The Network School operations team does not participate in judging to maintain i
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Arkiv Docs**     | [docs.arkiv.network](https://docs.arkiv.network)                                                                                                   |
 | **TypeScript SDK** | [Getting started](https://docs.arkiv.network/start-here/fundamentals/)                                                                             |
+| **Agent Skill**    | [docs/agent-skill.md](docs/agent-skill.md) — install `arkiv-best-practices` so your AI assistant knows the SDK and patterns                        |
 
 ### Submit & Get Help
 

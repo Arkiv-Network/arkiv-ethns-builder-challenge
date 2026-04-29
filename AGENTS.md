@@ -12,6 +12,7 @@ This repo contains the official rules, guides, and resources for the Arkiv × ET
 |----------|------|
 | What is the challenge? | `README.md` |
 | What should builders create? | `docs/builders-guide.md` |
+| Official Arkiv agent skill (install for SDK + best-practice context) | `docs/agent-skill.md` |
 | Rules, eligibility, prizes, legal terms | `RULES.md` |
 | How submissions are scored | `docs/scoring-rubric.md` |
 | Common questions | `FAQ.md` |

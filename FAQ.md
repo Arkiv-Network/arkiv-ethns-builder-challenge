@@ -106,6 +106,9 @@ Arkiv is a **shared, public database** — every entity is publicly readable, an
 **Who can edit or delete my entities?**
 Only the **`$owner`** (the wallet that currently controls the entity). Ownership can be transferred. Separately, **`$creator`** is set immutably at creation — useful for tamper-proof attribution (e.g., verifying a DePIN reading came from a specific device wallet via `.createdBy(deviceWallet)`).
 
+**Is there an agent skill that knows Arkiv?**
+Yes — `arkiv-best-practices`. Install it in your AI coding assistant (Claude Code, Cursor, Copilot, Cline, Windsurf) and your agent stops inventing SDK calls. Setup + example prompts in [docs/agent-skill.md](docs/agent-skill.md).
+
 **Where do I get help if I'm stuck?**
 **#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and the dedicated Network School channel. The Arkiv team is on call daily during the build window. There's also an Office Hour planned during the build window — date announced in Discord.
 
