@@ -78,7 +78,7 @@ All submissions must include:
 
 - **Currency:** Stipend disbursed in USDC to the EVM wallet address provided by the winner.
 - **Intended use:** The stipend is intended to fund a one-month stay at Network School (Forest City, Malaysia). Winners pick the month, subject to NS application and availability. Travel, visa applications, accommodation, and any costs related to the NS stay are the winner's responsibility — the $1,500 is intended to cover these costs at the winner's discretion.
-- **If a winner cannot or chooses not to attend NS, they keep the stipend.** The stipend is paid in USDC regardless of attendance.
+- **If a winner cannot or chooses not to attend NS, they keep the stipend.**
 - **One prize per team.** If a winning team has multiple members, the team receives one stipend ($1,500). How the team splits the stipend (and who, if anyone, attends NS) is the team's responsibility.
 - **KYC is required to claim the prize, not to enter.** All team members must complete KYC individually before funds are disbursed. The stipend is sent to a single wallet address confirmed by all team members during the KYC process. See Section 7.
 - **Prize is non-transferable** except as described in the runner-up policy (Section 6).
@@ -97,7 +97,7 @@ If a winner cannot or does not claim their prize within **3 calendar days** of t
 
 Reasons a winner may not claim include (but are not limited to): inability to complete KYC, or failure to respond within the claim window.
 
-If a winner claims the stipend but cannot or does not attend Network School, they keep the stipend. Attendance at NS is not a condition of receiving the prize.
+If a winner claims the stipend but cannot or does not attend Network School, they keep the stipend.
 
 ---
 

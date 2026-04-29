@@ -11,7 +11,7 @@ An invitation to build a web3-native application using Arkiv as the data layer, 
 Anyone 18+, anywhere in the world. Solo or team. Hybrid format — you can build IRL at Network School or fully remote.
 
 **Do I need to be at Network School to win?**
-No. The challenge is open to virtual participants worldwide. The stipend is intended toward a one-month stay at NS (Forest City, Malaysia), but if you can't or don't want to travel, you keep the prize. Participation itself is fully remote-friendly.
+No. The challenge is open to virtual participants worldwide. The stipend is intended toward a one-month stay at NS (Forest City, Malaysia), but if you can't or don't want to travel, you keep the stipend. Participation itself is fully remote-friendly.
 
 **Do I need to know Arkiv beforehand?**
 No. The May 15 IRL Arkiv 101 Workshop and the pre-challenge X Spaces (May 1–14) cover the basics. The mental model, per-theme entity design, and getting-started steps live in the [Builder's Guide](docs/builders-guide.md).
@@ -117,13 +117,13 @@ Yes — `arkiv-best-practices`. Install it in your AI coding assistant (Claude C
 ### Prizes & Travel
 
 **What exactly do I win?**
-Each of the two winners receives **$1,500 USDC**, paid to the EVM wallet address you provide. The stipend is intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of your choice — but it's paid in USDC regardless.
+Each of the two winners receives **$1,500 USDC**, paid to the EVM wallet address you provide. The stipend is intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of your choice.
 
 **What's Network School?**
 A one-month residency programme at the NS campus (Forest City, Malaysia). It includes housing, programming, and the NS community for the month you attend. See [ns.com](https://ns.com) for what's covered. Attendance is subject to NS application and availability; the Arkiv team can connect winners with the NS operations team to coordinate.
 
 **What if I can't travel to Network School?**
-You keep the stipend. It's paid in USDC to your wallet — attendance at NS is not a condition of receiving the prize. If you can't or don't want to travel, the $1,500 is still yours.
+You keep the stipend. If you can't or don't want to travel, the $1,500 is still yours.
 
 **What if I win but can't complete KYC?**
 The prize may transfer to the next-ranked submission. You have 3 days to complete KYC after being notified.
