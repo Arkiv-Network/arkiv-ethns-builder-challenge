@@ -69,16 +69,17 @@ All submissions must include:
 
 | Place | Prize |
 |-------|-------|
-| Winner 1 | $1,500 USDC + 1-month Network School membership (month of winner's choice, subject to NS availability) |
-| Winner 2 | $1,500 USDC + 1-month Network School membership (month of winner's choice, subject to NS availability) |
+| Winner 1 | $1,500 USDC, intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of the winner's choice |
+| Winner 2 | $1,500 USDC, intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of the winner's choice |
 
-**Total prize pool: $3,000 USDC + 2 × NS month memberships.**
+**Total prize pool: $3,000 USDC.**
 
 ### Prize conditions
 
 - **Currency:** Stipend disbursed in USDC to the EVM wallet address provided by the winner.
-- **NS membership:** A 1-month residency at Network School (Forest City, Malaysia). Winners pick the month, subject to NS availability and confirmation by the NS operations team. Travel, visa applications, and accommodation outside the NS membership are the winner's responsibility.
-- **One prize per team.** If a winning team has multiple members, the team receives one stipend ($1,500) and one NS membership. How the team handles the split or who attends NS is the team's responsibility — the membership is non-transferable to non-team-members.
+- **Intended use:** The stipend is intended to fund a one-month stay at Network School (Forest City, Malaysia). Winners pick the month, subject to NS application and availability. Travel, visa applications, accommodation, and any costs related to the NS stay are the winner's responsibility — the $1,500 is intended to cover these costs at the winner's discretion.
+- **If a winner cannot or chooses not to attend NS, they keep the stipend.** The stipend is paid as cash regardless of attendance.
+- **One prize per team.** If a winning team has multiple members, the team receives one stipend ($1,500). How the team splits the stipend (and who, if anyone, attends NS) is the team's responsibility.
 - **KYC is required to claim the prize, not to enter.** All team members must complete KYC individually before funds are disbursed. The stipend is sent to a single wallet address confirmed by all team members during the KYC process. See Section 7.
 - **Prize is non-transferable** except as described in the runner-up policy (Section 6).
 - **Tax obligations** are the winner's sole responsibility. The Organizer does not provide tax advice and will not withhold taxes.
@@ -94,9 +95,9 @@ If a winner cannot or does not claim their prize within **3 calendar days** of t
 3. The runner-up then has 3 calendar days to complete KYC and claim the prize
 4. This process may repeat at the Organizer's discretion
 
-Reasons a winner may not claim include (but are not limited to): inability to complete KYC, declining the NS membership, or failure to respond within the claim window.
+Reasons a winner may not claim include (but are not limited to): inability to complete KYC, or failure to respond within the claim window.
 
-If a winner claims the stipend but cannot accept the NS membership, they keep the stipend and the membership is forfeited (it does not convert to additional cash).
+If a winner claims the stipend but cannot or does not attend Network School, they keep the stipend. Attendance at NS is not a condition of receiving the prize.
 
 ---
 
@@ -124,13 +125,13 @@ The declaration form will be available as a downloadable PDF linked from these r
 4. **Wallet confirmation** — all team members indicate the same EVM wallet address in their KYC form, confirming their consent to receive the prize at that address
 5. **Verification** — the Organizer verifies documents (~2 business days). If documents are incomplete or incorrect, one correction round is allowed (2 additional days)
 6. **Disbursement** — $1,500 USDC sent to the confirmed wallet address on Ethereum mainnet
-7. **NS membership coordination** — the NS operations team contacts the winning team to schedule the membership month
+7. **NS coordination (optional)** — winners who plan to attend NS can be connected with the NS operations team to coordinate their stay, subject to NS application and availability
 
 ### KYC data handling
 
 - KYC documents are forwarded to the Organizer's compliance office for processing
 - Government IDs and signed forms are retained per the Organizer's compliance requirements
-- KYC data will not be shared with third parties except as required by law or with Network School strictly to coordinate the membership logistics (and only after the winner explicitly opts in)
+- KYC data will not be shared with third parties except as required by law or with Network School strictly to coordinate the winner's stay (and only after the winner explicitly opts in)
 
 ---
 
@@ -193,7 +194,7 @@ Violations may result in disqualification at the Organizer's sole discretion.
 ## 11. Liability & Disclaimers
 
 - The Organizer is not responsible for technical failures, network issues, or Arkiv testnet downtime that may affect participants' ability to build or submit
-- The Organizer is not responsible for travel arrangements, visa applications, accommodation, or any costs beyond the stated prizes (cash stipend + NS membership)
+- The Organizer is not responsible for travel arrangements, visa applications, accommodation, or any costs beyond the stated cash stipend
 - The Organizer reserves the right to modify these rules, extend deadlines, or cancel the Challenge if circumstances require it. Participants will be notified of any changes via Discord and the official announcement channels.
 - In the event of cancellation, no prizes will be awarded unless submissions have already been received and judged
 - The Organizer's total liability is limited to the stated prize amounts

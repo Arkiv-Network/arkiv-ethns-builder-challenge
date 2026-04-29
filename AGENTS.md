@@ -4,7 +4,7 @@ Apply the root `AGENTS.md` first. This file adds challenge-specific context and 
 
 ## Purpose
 
-This repo contains the official rules, guides, and resources for the Arkiv × ETHNS Builder Challenge: a 9-day challenge to build a web3-native application on Arkiv, hosted with Network School during Genesis Block Month (May 2026). Two winners each receive a $1,500 USDC stipend and a 1-month NS membership.
+This repo contains the official rules, guides, and resources for the Arkiv × ETHNS Builder Challenge: a 9-day challenge to build a web3-native application on Arkiv, hosted with Network School during Genesis Block Month (May 2026). Two winners each receive a $1,500 USDC stipend toward a one-month stay at Network School. If a winner can't attend, they keep the stipend.
 
 ## Use these files
 
@@ -19,7 +19,7 @@ This repo contains the official rules, guides, and resources for the Arkiv × ET
 
 ## Key facts
 
-- Prize: $1,500 USDC + 1-month NS membership per winner. 2 winners.
+- Prize: $1,500 USDC per winner (2 winners), intended toward a one-month stay at Network School. If a winner can't or doesn't want to attend NS, they keep the cash.
 - Themes: AI, Privacy, or DePIN. Pick one or hybridise.
 - Scoring: Arkiv integration depth 40%, functionality 30%, design and UX 20%, code quality and docs 10%.
 - All entities expire. Use `expiration dates`, never `TTL`.
