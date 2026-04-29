@@ -1,0 +1,171 @@
+# Arkiv × ETHNS Builder Challenge — FAQ
+
+---
+
+### General
+
+**What is the Arkiv × ETHNS Builder Challenge?**
+An invitation to build a web3-native application using Arkiv as the data layer, hosted with Network School during Genesis Block Month (May 2026). Pick one of three open themes — AI, Privacy, or DePIN (or hybridise). Two winners each receive a **$1,500 USDC stipend and a 1-month Network School membership**.
+
+**Who can participate?**
+Anyone 18+, anywhere in the world. Solo or team. Hybrid format — you can build IRL at Network School or fully remote.
+
+**Do I need to be at Network School to win?**
+No. The challenge is open to virtual participants worldwide. Winners who choose to redeem the NS month membership get a 1-month residency at NS (Forest City, Malaysia) — but participation itself is fully remote-friendly.
+
+**Do I need to know Arkiv beforehand?**
+No. The May 15 IRL Arkiv 101 Workshop and the pre-challenge X Spaces (May 1–14) cover the basics. The SDK, starter kit, reference patterns, and documentation are all in this repo.
+
+**Where are the rules hosted?**
+In this repo — see [RULES.md](RULES.md). They're also pinned in **#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and shared in the relevant Network School channel.
+
+**Can I use AI tools (Copilot, Claude, ChatGPT)?**
+Yes. We care about the result, not how you got there.
+
+**Can I use pre-existing code, libraries, or boilerplate?**
+Yes for libraries, frameworks, and boilerplate. The Arkiv integration and core application logic must be original work created during the challenge period (May 16–25).
+
+---
+
+### Themes
+
+**What are the three themes?**
+
+| Theme | What you build | The hook |
+|-------|---------------|---------|
+| **AI** | AI agents whose memory lives as Arkiv entities | Memory you actually own — portable across any app that reads Arkiv |
+| **Privacy** | Confidential data patterns on a public, tamper-proof layer | Encrypted payloads, ZK proofs, selective disclosure |
+| **DePIN** | Queryable data layer for sensor / telemetry / device data | Time-scoped, tamper-proof readings — the missing layer for physical-world networks |
+
+Full descriptions and concrete-build menus are in the [Builder's Guide](docs/builders-guide.md).
+
+**Do I have to pick one of the three?**
+Yes — your submission must address at least one. You can also hybridise (e.g., privacy-preserving DePIN, AI agent with encrypted memory). State your theme(s) in the submission form.
+
+**Is one theme easier or harder than the others?**
+Privacy is the highest-skill — it requires layering ZK or encryption on top of Arkiv. AI and DePIN are more approachable for builders new to crypto-cryptography. The four [reference patterns](docs/reference-patterns/) we publish before kickoff give you a starting point regardless of which theme you pick. All themes are scored on the same rubric.
+
+**Does my theme affect my score?**
+No. All themes are scored on the same rubric (40% Arkiv integration depth, 30% functionality, 20% design/UX, 10% code quality).
+
+**Can I combine themes?**
+Yes — explicitly. We'd rather you go deep than shallow, but if your project naturally bridges two themes (e.g., a DePIN sensor network with encrypted operator-data — that's DePIN + Privacy), say so in your submission form and README.
+
+**Can multiple teams pick the same theme?**
+Yes. There's no cap per theme.
+
+---
+
+### Teams & Submissions
+
+**Can I participate as a team?**
+Yes. The team size limit is 5 members. There's only one prize per winning team — $1,500 USDC + 1 NS month membership. How you split the stipend (and who attends NS) is up to you.
+
+**If my team wins, how is the prize distributed?**
+All team members must complete KYC, and the $1,500 is sent to one wallet. The NS membership is for one team member of the team's choice. See [RULES Section 7](RULES.md#7-kyc--prize-disbursement) for the full disbursement process.
+
+**Can I submit more than one project?**
+No. One submission per individual or team. If you submit multiple times, only the last submission counts.
+
+**Can I update my submission after submitting?**
+Yes. The form allows edits until the deadline (May 25 23:59 SGT). After the deadline, submissions are final.
+
+**What's required in my submission?**
+Your chosen theme(s), public GitHub repo, working demo URL, README with setup instructions, and the completed submission form. Full details in [RULES.md](RULES.md).
+
+---
+
+### Building
+
+**Where do I find requirements for my theme?**
+The [Builder's Guide](docs/builders-guide.md) describes each theme with concrete build ideas, entity-design hints, and expiration guidance. The [reference patterns](docs/reference-patterns/) give you starter implementations.
+
+**Can I use any tech stack?**
+Yes. Arkiv is the data layer — pick whatever you want for the frontend, styling, wallet connection, hosting, and (for the AI theme) the LLM you wrap.
+
+**Do I need a smart contract?**
+Not required. It's a nice-to-have. You can build a fully functional submission using only the Arkiv SDK.
+
+**What chain does this run on?**
+Arkiv testnet — **Kaolin** (Hoodi-based):
+
+| | |
+|---|---|
+| **Network ID** | `60138453025` |
+| **HTTP RPC** | `https://kaolin.hoodi.arkiv.network/rpc` |
+| **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
+| **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
+
+If you're using the TS/JS SDK, use `@arkiv-network/sdk` **v0.6.0 or newer**.
+
+**Where do I get help if I'm stuck?**
+**#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and the dedicated Network School channel. The Arkiv team is on call daily during the build window. There's also an Office Hour planned during the build window — date announced in Discord.
+
+---
+
+### Prizes & Travel
+
+**What exactly do I win?**
+Each of the two winners receives:
+- **$1,500 USDC** — paid to the EVM wallet address you provide
+- **1-month Network School membership** — for the month of your choice (subject to NS availability)
+
+**What's a Network School membership?**
+A 1-month residency at the Network School campus (Forest City, Malaysia). It includes housing, programming, and the NS community for the month you attend. See [ns.com](https://ns.com) for what's covered.
+
+**What if I can't travel to Network School?**
+The stipend is still yours regardless. The NS month membership is forfeited (not converted to extra cash) if you can't or don't want to attend. The cash + membership are decoupled.
+
+**What if I win but can't complete KYC?**
+The prize may transfer to the next-ranked submission. You have 3 days to complete KYC after being notified.
+
+**Do I need to do KYC to enter?**
+No. KYC is only required to claim a prize. Enter freely; worry about KYC only if you win.
+
+**What KYC do I need?**
+All team members must complete KYC individually. You'll need: a government-issued ID, a signed declaration form (we provide the PDF — print it and sign by hand), and a selfie with your ID. Full details in [RULES Section 7](RULES.md#7-kyc--prize-disbursement).
+
+---
+
+### Judging
+
+**How are submissions scored?**
+Four criteria with published weights — same rubric for all themes:
+
+| Criteria | Weight |
+|----------|--------|
+| Arkiv integration depth | 40% |
+| Functionality | 30% |
+| Design & UX | 20% |
+| Code quality & docs | 10% |
+
+See the [Scoring Rubric](docs/scoring-rubric.md) for detailed sub-criteria.
+
+**How do you compare submissions across different themes?**
+The rubric is theme-agnostic. "Arkiv integration depth" means the same thing whether you built an AI agent memory layer, an encrypted-payload pattern, or a DePIN sensor archive — proper entity schemas, queryable attributes, wallet ownership, entity relationships, thoughtful expiration dates.
+
+**Who are the judges?**
+The judging panel is published in the [README](README.md) before kickoff. It includes Arkiv Product and Platform representatives plus at least one external judge from a previous Arkiv hackathon. The Network School operations team does not judge.
+
+**Can I get feedback on my submission?**
+Winners get feedback through the announcement Space on May 29. Individual feedback for non-winners may happen post-challenge but isn't guaranteed.
+
+---
+
+### Rules
+
+**Where are the full rules?**
+[Official Rules & Terms](RULES.md)
+
+**Who owns the code I write?**
+You do. By entering, you grant Arkiv a non-exclusive license to showcase your project (marketing, docs, presentations). You can do whatever you want with your own code.
+
+**What license do I need?**
+Open source — MIT, Apache 2.0, or equivalent.
+
+**What gets me disqualified?**
+Plagiarism, not using Arkiv as the data layer, malicious code, no working demo, submitting outside the three themes, or submitting after the deadline.
+
+---
+
+*Don't see your question? Join our [Discord](https://discord.gg/arkiv) and ask in **#builders-challenge**, or drop into the Network School channel.*
