@@ -36,7 +36,7 @@ For more informaiton on the themes, check out our **[Builder's Guide](docs/build
 **The obvious:**
 
 - **Two winners**, each receiving **$1,500 USDC** toward a one-month stay at Network School (Forest City, Malaysia), in the month of their choice.
-- If you can't or don't want to travel to NS, you keep the stipend — it's paid in USDC either way.
+- If you can't or don't want to travel to NS, you can keep the stipend.
 
 **The less obvious:**
 
@@ -81,9 +81,9 @@ For more informaiton on the themes, check out our **[Builder's Guide](docs/build
 
 **Total prize pool: $3,000 USDC.**
 
-If a winner can't or doesn't want to travel to NS, they keep the stipend — it's paid in USDC regardless.
+If a winner can't or doesn't want to travel to NS, they keep the stipend.
 
-TO BE CONFIRMED: One prize per winning team — how the team splits the stipend (and who attends NS) is up to them. KYC is required to claim the prize, not to enter. Full prize and disbursement terms: [RULES Section 5](RULES.md#5-prizes) and [Section 7](RULES.md#7-kyc--prize-disbursement).
+One prize per winning team — how the team splits the stipend (and who attends NS) is up to them. KYC is required to claim the prize, not to enter. Full prize and disbursement terms: [RULES Section 5](RULES.md#5-prizes) and [Section 7](RULES.md#7-kyc--prize-disbursement).
 
 ---
 
