@@ -17,7 +17,7 @@ No. The challenge is open to virtual participants worldwide. The stipend is inte
 No. The May 15 IRL Arkiv 101 Workshop and the pre-challenge X Spaces (May 1–14) cover the basics. The mental model, per-theme entity design, and getting-started steps live in the [Builder's Guide](docs/builders-guide.md).
 
 **Where are the rules hosted?**
-In this repo — see [RULES.md](RULES.md). They're also pinned in **#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and shared in the relevant Network School channel.
+In this repo — see [RULES.md](RULES.md).
 
 **Can I use AI tools (Copilot, Claude, ChatGPT)?**
 Yes. We care about the result, not how you got there.
@@ -84,18 +84,18 @@ Yes. Arkiv is the data layer — pick whatever you want for the frontend, stylin
 Not required. It's a nice-to-have. You can build a fully functional submission using only the Arkiv SDK.
 
 **What chain does this run on?**
-Arkiv testnet — **Kaolin**:
+Arkiv testnet — **Braga**:
 
 | | |
 |---|---|
-| **Network ID** | `60138453025` |
-| **HTTP RPC** | `https://kaolin.hoodi.arkiv.network/rpc` |
-| **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
-| **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
-| **Faucet** | [kaolin.hoodi.arkiv.network/faucet](https://kaolin.hoodi.arkiv.network/faucet/) |
-| **Explorer** | [explorer.kaolin.hoodi.arkiv.network](https://explorer.kaolin.hoodi.arkiv.network/) |
+| **Network ID** | `60138453102` |
+| **HTTP RPC** | `https://braga.hoodi.arkiv.network/rpc` |
+| **WebSocket RPC** | `wss://braga.hoodi.arkiv.network/rpc/ws` |
+| **Standard Bridge** | `0xB52b417A79c9dE21ffe221dF9a3821B7EaC60813` |
+| **Faucet** | [braga.hoodi.arkiv.network/faucet](https://braga.hoodi.arkiv.network/faucet/) |
+| **Explorer** | [explorer.braga.hoodi.arkiv.network](https://explorer.braga.hoodi.arkiv.network/) |
 
-Use `@arkiv-network/sdk` **v0.6.0 or newer**.
+Use `@arkiv-network/sdk` **v0.6.8 or newer**.
 
 **Is my data private? Can other projects see it?**
 Arkiv is a **shared, public database** — every entity is publicly readable, and your project shares the store with everyone else's. Two practical consequences:
@@ -109,8 +109,17 @@ Only the **`$owner`** (the wallet that currently controls the entity). Ownership
 **Is there an agent skill that knows Arkiv?**
 Yes — `arkiv-best-practices`. Install it in your AI coding assistant (Claude Code, Cursor, Copilot, Cline, Windsurf) and your agent stops inventing SDK calls. Setup + example prompts in [docs/agent-skill.md](docs/agent-skill.md).
 
+**How do I report an Arkiv bug or suggest a feature?**
+Install the `arkiv-feedback` skill and run `/arkiv-feedback` in your AI agent. It walks you through an interactive form — what you expected, what happened, reproduction steps, SDK version — and files the result directly to the public [`Arkiv-Network/reported-issues`](https://github.com/Arkiv-Network/reported-issues) repo. Install it with:
+
+```bash
+npx skills add https://github.com/arkiv-network/skills --skill arkiv-feedback
+```
+
+The Arkiv team monitors that repo throughout the build window.
+
 **Where do I get help if I'm stuck?**
-**#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and the dedicated Network School channel. The Arkiv team is on call daily during the build window. There's also an Office Hour planned during the build window — date announced in Discord.
+[**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) on the [Arkiv Discord](https://discord.gg/arkiv). The Arkiv team is on call daily during the build window.
 
 ---
 
@@ -132,7 +141,10 @@ The prize may transfer to the next-ranked submission. You have 3 days to complet
 No. KYC is only required to claim a prize. Enter freely; worry about KYC only if you win.
 
 **What KYC do I need?**
-All team members must complete KYC individually. You'll need: a government-issued ID, a signed declaration form (we provide the PDF — print it and sign by hand), and a selfie with your ID. Full details in [RULES Section 7](RULES.md#7-kyc--prize-disbursement).
+All team members must complete KYC individually. You'll need: a government-issued ID, a signed declaration form (provided to winners after notification — print it and sign by hand), and a selfie with your ID. Full details in [RULES Section 7](RULES.md#7-kyc--prize-disbursement).
+
+**Is a demo video required?**
+Optional at submission, but **required to claim your prize**. If you win, you'll need to record and submit a 2–3 minute walkthrough of your project before the prize is disbursed. Plan for it — it's not long, but don't leave it to the last minute.
 
 ---
 
@@ -154,7 +166,7 @@ See the [Scoring Rubric](docs/scoring-rubric.md) for detailed sub-criteria.
 The rubric is theme-agnostic. "Arkiv integration depth" means the same thing whether you built an AI agent memory layer, an encrypted-payload pattern, or a DePIN sensor archive — proper entity schemas, queryable attributes, wallet ownership, entity relationships, thoughtful expiration dates.
 
 **Who are the judges?**
-The judging panel is published in the [README](README.md) before kickoff. It includes Arkiv Product and Tech representatives plus at least one external judge from a previous Arkiv hackathon. The Network School operations team does not judge.
+Judging panel will be confirmed and announced soon. The Network School operations team does not judge.
 
 **Can I get feedback on my submission?**
 Winners get feedback through the announcement Space on May 29. Individual feedback for non-winners may happen post-challenge but isn't guaranteed.
@@ -177,4 +189,4 @@ Plagiarism, not using Arkiv as the data layer, malicious code, no working demo, 
 
 ---
 
-*Don't see your question? Join our [Discord](https://discord.gg/arkiv) and ask in **#builders-challenge**, or drop into the Network School channel.*
+*Don't see your question? Join our [Discord](https://discord.gg/arkiv) and ask in [**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266).

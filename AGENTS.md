@@ -31,16 +31,16 @@ This repo contains the official rules, guides, and resources for the Arkiv × ET
 
 ## Current testnet
 
-Use Kaolin for all building.
+Use Braga for all building.
 
 | Item | Value |
 |------|-------|
-| Network ID | `60138453025` |
-| HTTP RPC | `https://kaolin.hoodi.arkiv.network/rpc` |
-| WebSocket RPC | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
-| Standard Bridge | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
-| Faucet | `https://kaolin.hoodi.arkiv.network/faucet/` |
-| Explorer | `https://explorer.kaolin.hoodi.arkiv.network/` |
+| Network ID | `60138453102` |
+| HTTP RPC | `https://braga.hoodi.arkiv.network/rpc` |
+| WebSocket RPC | `wss://braga.hoodi.arkiv.network/rpc/ws` |
+| Standard Bridge | `0xB52b417A79c9dE21ffe221dF9a3821B7EaC60813` |
+| Faucet | `https://braga.hoodi.arkiv.network/faucet/` |
+| Explorer | `https://explorer.braga.hoodi.arkiv.network/` |
 | TS/JS SDK | `@arkiv-network/sdk` v0.6.0 or newer |
 
 ## Minimum technical requirements
@@ -81,7 +81,7 @@ All Arkiv entities are publicly readable. Privacy = encrypted payload, not a pub
 - Paraphrase legal terms from `RULES.md` when exact wording matters.
 - Use `TTL` instead of `expiration dates`.
 - Present Arkiv as optional. It is the required data layer.
-- Encourage builders to use Mendoza when Kaolin is the active testnet.
+- Encourage builders to use Mendoza when Braga is the active testnet.
 - Use deprecated terms like "Golem Base" or describe Arkiv as "trustless" or "fully decentralised" — Arkiv launches with centralised sequencers.
 
 ## Builder guidance
@@ -90,4 +90,4 @@ All Arkiv entities are publicly readable. Privacy = encrypted payload, not a pub
 - Numeric attributes for range queries; string attributes for equality + glob. Attributes have no array type — model lists via one-attribute-per-value or via separate relationship entities.
 - Three themes are open and hybridable. AI: agent memory on Arkiv. Privacy: encrypted payloads + envelope encryption + access-grant entities, or ZK proofs anchored on Arkiv. DePIN: time-scoped sensor and telemetry data with batch creates and `$creator`-based provenance.
 - Suggest stack choices that fit the builder's experience, but keep Arkiv as the required data layer.
-- If Arkiv-specific issues come up, direct builders to `#builders-challenge` on the Arkiv Discord and the relevant Network School channel.
+- If Arkiv-specific issues come up, direct builders to `#builders-challenge` on the Arkiv Discord and `#ethns-arkiv-challenge` on Network School.

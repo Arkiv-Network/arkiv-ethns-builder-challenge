@@ -25,7 +25,7 @@ The Arkiv × ETHNS Builder Challenge ("Challenge") is organized by Golem Factory
 - **Pre-challenge content:** May 1–14, 2026 (X Spaces, online workshops)
 - **Arkiv 101 Workshop (IRL @ NS):** May 15, 2026
 - **Submissions open / Challenge kickstart:** May 16, 2026 (during ETHNS EVM Day)
-- **Submissions close:** May 25, 2026 at 23:59 SGT
+- **Submissions close:** May 25, 2026 at 23:59 UTC
 - **Judging period:** May 26–28, 2026
 - **Winners announced:** May 29, 2026 (live X Space with the judging panel)
 
@@ -35,7 +35,7 @@ Late submissions will not be accepted. The timestamp of the submission form entr
 
 ## 4. Submission Requirements
 
-All submissions must be made via the official submission form *(URL published before kickoff)*. This is the only valid method of submission.
+All submissions must be made via the official submission form *(Submission link will be added here soon.)*. This is the only valid method of submission.
 
 All submissions must include:
 
@@ -115,7 +115,7 @@ Each team member must provide:
 2. **Signed declaration form** — We'll provide a PDF form. Print it, **sign it by hand with a pen**, then scan or photograph it. We do not accept digital, typed, or pasted signatures.
 3. **Selfie with ID** — A photo of yourself holding your ID next to your face. Both your face and the ID must be clearly readable.
 
-The declaration form will be available as a downloadable PDF linked from these rules and the submission form.
+The declaration form will be provided to winners directly after notification.
 
 ### Process
 
@@ -139,7 +139,7 @@ The declaration form will be available as a downloadable PDF linked from these r
 
 ### Panel
 
-The judging panel will be confirmed and published in the README before the Challenge kickstart on May 16, 2026. It will consist of representatives from Arkiv (Product, Platform) and at least one previous Arkiv hackathon winner serving as an external judge.
+Judging panel will be confirmed and announced soon.
 
 The Network School operations team does not participate in judging to maintain impartiality.
 
@@ -218,7 +218,7 @@ These rules are governed by the laws of Switzerland. Any disputes will be resolv
 
 ## 14. Contact
 
-Questions about these rules: join our [Discord](https://discord.gg/arkiv) and ask in **#builders-challenge**, or post in the relevant Network School channel.
+Questions about these rules: join our [Discord](https://discord.gg/arkiv) and ask in [**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266).
 
 ---
 

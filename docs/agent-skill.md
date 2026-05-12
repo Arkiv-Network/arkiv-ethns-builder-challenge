@@ -30,3 +30,25 @@ Once installed, open your AI agent and try prompts like:
 - *"Build a feature that lets users create and list posts stored on Arkiv"*
 - *"Audit my project — am I following Arkiv best practices?"*
 - *"Set up a React hook that reads Arkiv entities with TanStack Query"*
+
+---
+
+## Reporting Bugs and Suggesting Features
+
+Arkiv also publishes a **arkiv-feedback** skill. It walks you through an interactive bug report or feature request form and files the result directly to the public [`Arkiv-Network/reported-issues`](https://github.com/Arkiv-Network/reported-issues) repo on GitHub.
+
+Install it alongside `arkiv-best-practices`:
+
+```bash
+npx skills add https://github.com/arkiv-network/skills --skill arkiv-feedback
+```
+
+Once installed, invoke it in your AI agent:
+
+```
+/arkiv-feedback
+```
+
+The skill prompts you for the relevant details (what you expected, what happened, reproduction steps, SDK version), then opens or files the issue on your behalf. It mirrors the GitHub issue form used in the public repo — so the output lands in a consistent, triageable format.
+
+Use it when you hit an SDK behaviour that doesn't match the docs, find something broken on the testnet, or want to suggest an improvement. The Arkiv team monitors the repo throughout the build window.

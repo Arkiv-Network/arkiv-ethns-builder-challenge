@@ -132,7 +132,7 @@ This is the highest-skill theme of the three. Pick something tractable and ship 
 - Encrypted medical records where a patient grants a doctor 30-day access (auto-expires)
 - Anonymous DAO membership rolls with public proofs of total members
 - Sealed-bid auctions that publish only the winner
-- Whistleblower-style document archives with verifiable timestamps and revealed metadata only
+- Whistleblower-style document archives with tamper-proof timestamps and revealed metadata only
 - Anonymous credentials: prove you have a verified GitHub contribution count without revealing your identity
 - Group messaging with end-to-end encryption and a public message-history audit trail
 
@@ -142,7 +142,7 @@ This is the highest-skill theme of the three. Pick something tractable and ship 
 - **How is access granted, and how is it revoked?** Manual revocation, auto-expiration via Arkiv's `expiresIn`, key rotation? Auto-revocation that *just works* via expiration is rare in Web3 and is a strong feature to demonstrate.
 - **What's the threat model?** Eavesdropper-only, malicious owner, malicious grantee, leaked keys? Building for one is honest; pretending to defend against all is not.
 - **How do you prove things without revealing them?** ZK proofs, anonymous attestations, selective disclosure — pick one approach and make it work end-to-end rather than gesturing at three.
-- **What's auditable and by whom?** Encrypted payloads + tamper-proof storage = a verifiable audit trail without leaking content. If your build can demonstrate that property, surface it.
+- **What's auditable and by whom?** Encrypted payloads + tamper-proof storage = a tamper-proof audit trail without leaking content. If your build can demonstrate that property, surface it.
 
 ### Directions to push it further
 
@@ -163,12 +163,12 @@ DePIN networks generate enormous time-series data: sensor readings, location pin
 
 ### Concrete builds (just to spark ideas)
 
-- Proof-of-coverage map where every node ping is a verifiable Arkiv entity
+- Proof-of-coverage map where every node ping is a tamper-proof Arkiv entity
 - Solar-panel production tracker feeding tokenised energy markets
 - Air-quality sensor network with a public queryable API
 - Fleet-tracking system where operators retain sovereignty over their telemetry
 - Bandwidth measurement network with reward calculation pulling from Arkiv
-- Decentralised weather-station network with verifiable readings
+- Decentralised weather-station network with tamper-proof readings
 
 ### Things worth thinking through
 
@@ -205,12 +205,12 @@ State your theme(s) explicitly in the README and submission form.
 
 1. **Pick your theme** — whichever excites you most (or mix them)
 2. **Read the section for your theme** above — use the questions and directions to shape your build, not as a checklist
-3. **Read the [Arkiv docs](https://docs.arkiv.network)** and the [SDK fundamentals guide](https://docs.arkiv.network/start-here/fundamentals/)
+3. **Read the [Arkiv docs](https://docs.arkiv.network)** and the [fundamentals guide](https://docs.arkiv.network/start-here/fundamentals/)
 4. **Install the [Arkiv agent skill](agent-skill.md)** in your AI coding assistant — `arkiv-best-practices` front-loads the SDK and integration patterns so your agent stops inventing things
 5. **Set up your project's `PROJECT_ATTRIBUTE`** before writing any entity code
-6. **Connect to Kaolin testnet** — [faucet](https://kaolin.hoodi.arkiv.network/faucet/), [explorer](https://explorer.kaolin.hoodi.arkiv.network/)
+6. **Connect to Braga testnet** — [faucet](https://braga.hoodi.arkiv.network/faucet/), [explorer](https://explorer.braga.hoodi.arkiv.network/)
 7. **Get create + read + query working for one entity type first** — then add relationships, then add more types
-8. **Join Discord support channel** — [Arkiv Discord](https://discord.gg/arkiv) → **#builders-challenge**
+8. **Join Discord support channel** — [Arkiv Discord](https://discord.gg/arkiv)
 
 ---
 
@@ -230,6 +230,6 @@ Submission form: published in the [README](../README.md) before kickoff.
 
 ## Questions?
 
-Join our [Discord](https://discord.gg/arkiv) and head to **#builders-challenge**, or post in the Network School channel. The Arkiv team is on call daily during the build window. There's also an Office Hour planned during the build window — date announced in Discord.
+Join our [Discord](https://discord.gg/arkiv) and head to  [**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266). The Arkiv team is on call daily during the build window.
 
-Don't struggle alone. If you're stuck on an Arkiv integration issue, ask. We'd rather help you ship something great than watch you debug in silence for 3 days.
+Don't struggle alone. If you're stuck on an Arkiv integration issue, ask.

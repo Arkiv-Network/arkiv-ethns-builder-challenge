@@ -27,7 +27,7 @@ Builders get a structured 9-day window, kicking off during ETHNS EVM Day, with t
 
 Pick one or mix them up! All themes will be scored on the same rubric, there's no advantage to picking one over another. Go with whatever excites you.
 
-For more informaiton on the themes, check out our **[Builder's Guide](docs/builders-guide.md)**.
+For more information on the themes, check out our **[Builder's Guide](docs/builders-guide.md)**.
 
 ---
 
@@ -42,7 +42,7 @@ For more informaiton on the themes, check out our **[Builder's Guide](docs/build
 
 - Ship a working product on a data layer most devs haven't touched yet.
 - Code is open source. The best submissions become a reference for other builders working on AI, privacy, or DePIN with Arkiv.
-- Support from the Arkiv team throughout the build window. Join our [Discord](https://discord.gg/arkiv) → **#builders-challenge**, and the Network School channel.
+- Support from the Arkiv team throughout the build window. Join our [Discord](https://discord.gg/arkiv) → [**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266).
 - Genesis Block Month at NS is the first Ethereum-focused residency at Network School — you're shipping into a moment, not into a vacuum.
 
 ---
@@ -50,8 +50,8 @@ For more informaiton on the themes, check out our **[Builder's Guide](docs/build
 ## Who this is for
 
 - Developers who can build a full-stack web application (or a backend / agent service for the AI theme)
-- Hybrid format — IRL at NS or fully remote, anywhere in the world
-- **TO BE APPROVED**: Solo or team (max 5), prize stays the same per winning team
+- Hybrid format — IRL at NS or fully remote, anywhere in the world!
+- Solo or team (max 5), prize stays the same per winning team
 - Any stack on the frontend / agent layer. Arkiv is the data layer, you pick everything else
 - You don't need to know Arkiv beforehand. The May 15 IRL Arkiv 101 Workshop and the pre-challenge X Spaces (May 1–14) cover the basics. Reference patterns and docs handle the rest.
 
@@ -59,15 +59,15 @@ For more informaiton on the themes, check out our **[Builder's Guide](docs/build
 
 ## Timeline
 
-| Date | What |
-| :---- | :---- |
-| **May 1–14** | Pre-challenge content — X Spaces, online workshops |
-| **May 15** | **Arkiv 101 Workshop** — IRL @ Network School |
-| **May 16** | **Submissions open / Challenge kickstart** — during ETHNS EVM Day |
+| Date          | What                                                                       |
+| :------------ | :------------------------------------------------------------------------- |
+| **May 1–14**  | Pre-challenge content — X Spaces, online workshops                         |
+| **May 15**    | **Arkiv 101 Workshop** — IRL @ Network School                              |
+| **May 16**    | **Submissions open / Challenge kickstart** — during ETHNS EVM Day          |
 | **May 23–24** | ETHNS Open Days — Open Hardware + Privacy. Final-push activations IRL @ NS |
-| **May 25** | **Submissions close** — 23:59 SGT |
-| **May 26–28** | Judging |
-| **May 29** | **Winners announced** — live X Space with the judging panel |
+| **May 25**    | **Submissions close** — 23:59 UTC                                          |
+| **May 26–28** | Judging                                                                    |
+| **May 29**    | **Winners announced** — live X Space with the judging panel                |
 
 *The Organizer reserves the right to adjust these dates. Any changes will be communicated via Discord and official channels. See [RULES.md](RULES.md) for full terms.*
 
@@ -89,9 +89,7 @@ One prize per winning team — how the team splits the stipend (and who attends 
 
 ## Judges
 
-Panel published here before kickoff (May 16, 2026). It will consist of representatives from Arkiv (Product, Tech) and at least one external judge from a previous Arkiv hackathon.
-
-The Network School operations team does not participate in judging to maintain impartiality.
+Judging panel will be confirmed and announced soon.
 
 ---
 
@@ -116,12 +114,9 @@ The Network School operations team does not participate in judging to maintain i
 
 ### Submit & Get Help
 
-| What | Where |
-| :---- | :---- |
-| **Submit** | Submission form *(URL published before kickoff)* |
-| **Arkiv Discord** | [Join](https://discord.gg/arkiv) → **#builders-challenge** |
-| **Network School channel** | Announced in Discord and the NS community ahead of kickoff |
+| What                       | Where                                                                                                                                 |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
+| **Submit**                 | Submission form *(Submission link will be added here soon — before kickoff on May 16.)*                                               |
+| **Arkiv Discord**          | [Join](https://discord.gg/arkiv) → [**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) |
 
 ---
-
-*This is not a contest for the biggest team or the prettiest mockup. It's a builders challenge. Ship something real on a new data primitive. The best work speaks for itself.*

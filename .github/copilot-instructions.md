@@ -36,18 +36,18 @@ The official rules, guides, and resources for the **Arkiv × ETHNS Builder Chall
 - **TypeScript SDK — Start here:** https://docs.arkiv.network/start-here/fundamentals/
 - **Python SDK — Start here:** https://docs.arkiv.network/start-here/fundamentals/
 
-### Current Testnet: Kaolin
+### Current Testnet: Braga
 
-Use Kaolin for all building:
+Use Braga for all building:
 
 | | |
 |---|---|
-| **Network ID** | `60138453025` |
-| **HTTP RPC** | `https://kaolin.hoodi.arkiv.network/rpc` |
-| **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
-| **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
-| **Faucet** | `https://kaolin.hoodi.arkiv.network/faucet/` |
-| **Explorer** | `https://explorer.kaolin.hoodi.arkiv.network/` |
+| **Network ID** | `60138453102` |
+| **HTTP RPC** | `https://braga.hoodi.arkiv.network/rpc` |
+| **WebSocket RPC** | `wss://braga.hoodi.arkiv.network/rpc/ws` |
+| **Standard Bridge** | `0xB52b417A79c9dE21ffe221dF9a3821B7EaC60813` |
+| **Faucet** | `https://braga.hoodi.arkiv.network/faucet/` |
+| **Explorer** | `https://explorer.braga.hoodi.arkiv.network/` |
 | **TS/JS SDK version** | `@arkiv-network/sdk` v0.6.0 or newer |
 
 ## Minimum Technical Requirements
@@ -78,4 +78,4 @@ Every submission must:
 - **Scoring:** The rubric in `docs/scoring-rubric.md` is published and transparent. If a builder asks how to score well, point them to the specific sub-criteria.
 - **Rules questions:** Always reference `RULES.md` for anything about eligibility, prizes, deadlines, or legal terms. Don't paraphrase legal language.
 - **Tech stack:** Arkiv is the required data layer. Everything else (frontend, styling, wallet lib, hosting) is the builder's choice. Suggest what fits their experience.
-- **Support:** Direct builders to **#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and the relevant Network School channel for Arkiv-specific issues.
+- **Support:** Direct builders to **#builders-challenge** on the [Arkiv Discord](https://discord.gg/arkiv) and **#ethns-arkiv-challenge** on Network School for Arkiv-specific issues.
