@@ -35,7 +35,7 @@ Late submissions will not be accepted. The timestamp of the submission form entr
 
 ## 4. Submission Requirements
 
-All submissions must be made via the official submission form *(Submission link will be added here soon.)*. This is the only valid method of submission.
+All submissions must be made via the official submission form: **[forms.arkiv.network/ethns-arkiv-challenge](https://forms.arkiv.network/ethns-arkiv-challenge)**. This is the only valid method of submission.
 
 All submissions must include:
 

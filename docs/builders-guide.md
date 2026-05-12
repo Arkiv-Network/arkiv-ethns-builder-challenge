@@ -224,7 +224,7 @@ State your theme(s) explicitly in the README and submission form.
 | **Demo video**  | Optional at submission, required for prize claim (2–3 min walkthrough)                |
 | **Team info**   | Names, GitHub handles, wallet address for prize                                       |
 
-Submission form: published in the [README](../README.md) before kickoff.
+**Submit here:** [forms.arkiv.network/ethns-arkiv-challenge](https://forms.arkiv.network/ethns-arkiv-challenge)
 
 ---
 

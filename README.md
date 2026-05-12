@@ -116,7 +116,7 @@ Judging panel will be confirmed and announced soon.
 
 | What                       | Where                                                                                                                                 |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
-| **Submit**                 | Submission form *(Submission link will be added here soon — before kickoff on May 16.)*                                               |
+| **Submit**                 | [forms.arkiv.network/ethns-arkiv-challenge](https://forms.arkiv.network/ethns-arkiv-challenge)                                        |
 | **Arkiv Discord**          | [Join](https://discord.gg/arkiv) → [**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) |
 
 ---
