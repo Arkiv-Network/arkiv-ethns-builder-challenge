@@ -18,6 +18,15 @@ The Arkiv × ETHNS Builder Challenge ("Challenge") is organized by Golem Factory
 - One submission per individual or team. Multiple submissions will result in only the last submission being evaluated
 - Teams have a size limit of 5, but only **one prize is awarded per winning team** (see Section 5)
 
+### Local Entrant designation
+
+One of the two prize slots is reserved for a **Local Entrant** — see Section 5. A Local Entrant is a participant who, at the time of submission, is either:
+
+- An attendee of Network School during Genesis Block Month (May 2026), or
+- Otherwise affiliated with Network School (e.g. a current or former NS resident participating in the Challenge).
+
+The Network School operations team remains excluded from prizes regardless of Local Entrant status. For teams, the team qualifies as Local if at least one team member meets the criteria above. Participants indicate Local Entrant status on the submission form; the Organizer verifies with Network School before prize disbursement.
+
 ---
 
 ## 3. Challenge Period
@@ -67,12 +76,18 @@ All submissions must include:
 
 ## 5. Prizes
 
-| Place | Prize |
-|-------|-------|
-| Winner 1 | $1,500 USDC, intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of the winner's choice |
-| Winner 2 | $1,500 USDC, intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of the winner's choice |
+| Slot | Prize | Who it goes to |
+|-------|-------|----------------|
+| **Open slot** | $1,500 USDC, intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of the winner's choice | The top-ranked submission overall (any entrant — Local or otherwise) |
+| **Local slot** | $1,500 USDC, intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of the winner's choice | The top-ranked submission from a **Local Entrant** (see Section 2) |
 
 **Total prize pool: $3,000 USDC.**
+
+All submissions are judged together on the same rubric (Section 8) — there is no separate scoring track. The split applies only to which slot each winning entry occupies:
+
+- The **Open slot** is awarded to the top-ranked submission overall.
+- The **Local slot** is awarded to the highest-ranked submission from a Local Entrant that has not already taken the Open slot.
+- If no Local Entrant qualifies (no Local submission, or the only Local submission already took the Open slot), the Local slot is awarded to the next-highest-ranked submission overall, regardless of Local status.
 
 ### Prize conditions
 
@@ -91,7 +106,9 @@ All submissions must include:
 If a winner cannot or does not claim their prize within **3 calendar days** of the winner announcement:
 
 1. The Organizer will notify the winner and request confirmation
-2. If no response or the winner declines, the Organizer may transfer the prize to the next highest-ranked submission
+2. If no response or the winner declines, the Organizer may transfer the prize to the next highest-ranked submission, applying the same slot rules as in Section 5:
+   - If the **Open slot** is forfeited, it cascades to the next-highest-ranked submission overall.
+   - If the **Local slot** is forfeited, it cascades to the next-highest-ranked **Local Entrant** submission. If no further Local Entrant submissions remain, it cascades to the next-highest-ranked submission overall.
 3. The runner-up then has 3 calendar days to complete KYC and claim the prize
 4. This process may repeat at the Organizer's discretion
 
@@ -156,12 +173,13 @@ All themes are scored on the same rubric. See the [Scoring Rubric](docs/scoring-
 
 ### Process
 
-1. All valid submissions are reviewed by the full judging panel
+1. All valid submissions are reviewed by the full judging panel — Local Entrants and non-Local entrants are scored on the same rubric in a single pool
 2. Each judge scores independently on all 4 criteria
 3. Scores are averaged across judges
 4. Final ranking is determined by weighted average score
-5. In case of a tie, the panel discusses and reaches consensus
-6. Judges' decisions are final and not subject to appeal
+5. The **Open slot** goes to the top-ranked submission. The **Local slot** goes to the highest-ranked Local Entrant submission that has not already taken the Open slot. If no Local Entrant qualifies, the Local slot cascades to the next-highest-ranked submission overall (see Section 5).
+6. In case of a tie, the panel discusses and reaches consensus
+7. Judges' decisions are final and not subject to appeal
 
 ---
 

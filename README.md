@@ -75,11 +75,14 @@ For more information on the themes, check out our **[Builder's Guide](docs/build
 
 ## Prize
 
-| Prize | Each winner receives |
-| :---- | :---- |
-| **Stipend** | $1,500 USDC, intended toward a one-month stay at Network School (Forest City, Malaysia), in the month of the winner's choice |
+| Slot | Prize | Who it goes to |
+| :---- | :---- | :---- |
+| **Open slot** | $1,500 USDC, intended toward a one-month stay at Network School | Top-ranked submission overall (any entrant) |
+| **Local slot** | $1,500 USDC, intended toward a one-month stay at Network School | Top-ranked submission from a Network School attendee / affiliate |
 
 **Total prize pool: $3,000 USDC.**
+
+All submissions are judged together on the same rubric — the slot split only determines which prize a winning entry occupies. If no Local Entrant qualifies, the Local slot cascades to the next-highest-ranked submission overall.
 
 If a winner can't or doesn't want to travel to NS, they keep the stipend.
 
