@@ -137,12 +137,11 @@ The declaration form will be provided to winners directly after notification.
 ### Process
 
 1. **Winner notified** via email and Telegram (provided in submission form)
-2. **Demo video** — winner records a 2–3 minute demo and submits the link
-3. **KYC submission** — all team members submit the three documents listed above within **3 calendar days** of notification
-4. **Wallet confirmation** — all team members indicate the same EVM wallet address in their KYC form, confirming their consent to receive the prize at that address
-5. **Verification** — the Organizer verifies documents (~2 business days). If documents are incomplete or incorrect, one correction round is allowed (2 additional days)
-6. **Disbursement** — $1,500 USDC sent to the confirmed wallet address on Ethereum mainnet
-7. **NS coordination (optional)** — winners who plan to attend NS can be connected with the NS operations team to coordinate their stay, subject to NS application and availability
+2. **KYC submission** — all team members submit the three documents listed above within **3 calendar days** of notification
+3. **Wallet confirmation** — all team members indicate the same EVM wallet address in their KYC form, confirming their consent to receive the prize at that address
+4. **Verification** — the Organizer verifies documents (~2 business days). If documents are incomplete or incorrect, one correction round is allowed (2 additional days)
+5. **Disbursement** — $1,500 USDC sent to the confirmed wallet address on Ethereum mainnet
+6. **NS coordination (optional)** — winners who plan to attend NS can be connected with the NS operations team to coordinate their stay, subject to NS application and availability
 
 ### KYC data handling
 

@@ -11,7 +11,7 @@ An invitation to build a web3-native application using Arkiv as the data layer, 
 Anyone 18+, anywhere in the world. Solo or team. Hybrid format — you can build IRL at Network School or fully remote.
 
 **Do I need to be at Network School to win?**
-No — one of the two prize slots (the **Open slot**) is awarded to the top-ranked submission overall, so a fully remote builder can win it. The second slot (the **Local slot**) is reserved for participants attending or affiliated with Network School. All submissions are judged together on the same rubric — the split only determines which slot each winning entry occupies. See [RULES Section 5](RULES.md#5-prizes) for details. The stipend is intended toward a one-month stay at NS (Forest City, Malaysia), but if you can't or don't want to travel, you keep the stipend.
+No — one of the two prize slots (the **Open slot**) is awarded to the top-ranked submission overall, so a fully remote builder can win it. The second slot (the **Local slot**) is reserved for participants attending or affiliated with Network School. All submissions are judged together on the same rubric — the split only determines which slot each winning entry occupies. See [RULES Section 5](RULES.md#5-prizes) for details.
 
 **Do I need to know Arkiv beforehand?**
 No. The May 15 IRL Arkiv 101 Workshop and the pre-challenge X Spaces (May 1–14) cover the basics. The mental model, per-theme entity design, and getting-started steps live in the [Builder's Guide](docs/builders-guide.md).
