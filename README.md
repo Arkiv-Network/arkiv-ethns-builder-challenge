@@ -1,7 +1,3 @@
-
-
-> **Challenge runs May 16–25, 2026.** Join the [Discord](https://discord.gg/arkiv) → **#builders-challenge**, and follow [@arkiv_network](https://x.com/arkiv_network) for kickoff.
-
 # Arkiv × ETHNS Builder Challenge
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/74e971a3-2fa9-4713-872d-11929a911188" />
