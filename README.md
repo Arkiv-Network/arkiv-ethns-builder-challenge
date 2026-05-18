@@ -113,6 +113,7 @@ Judging panel will be confirmed and announced soon.
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Arkiv Docs**     | [docs.arkiv.network](https://docs.arkiv.network)                                                                                                   |
 | **TypeScript SDK** | [Getting started](https://docs.arkiv.network/start-here/fundamentals/)                                                                             |
+| **Data Explorer** | [data.arkiv.network](https://data.arkiv.network/) — inspect your entities and test queries in the browser ([docs](https://docs.arkiv.network/start-here/data-explorer/)). In Beta. |
 | **Agent Skill**    | [docs/agent-skill.md](docs/agent-skill.md) — install `arkiv-best-practices` so your AI assistant knows the SDK and patterns                        |
 
 ### Submit & Get Help
@@ -121,5 +122,6 @@ Judging panel will be confirmed and announced soon.
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
 | **Submit**                 | [forms.arkiv.network/ethns-arkiv-challenge](https://forms.arkiv.network/ethns-arkiv-challenge)                                        |
 | **Arkiv Discord**          | [Join](https://discord.gg/arkiv) → [**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) |
+| **Data Explorer feedback** | The Explorer is in Beta — [report bugs or gaps](https://github.com/Arkiv-Network/reported-issues/issues/new/choose) |
 
 ---
