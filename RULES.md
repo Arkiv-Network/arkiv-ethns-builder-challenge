@@ -15,7 +15,7 @@ The Arkiv × ETHNS Builder Challenge ("Challenge") is organized by Golem Factory
 - No purchase necessary to enter
 - Employees of Arkiv / Golem Network and their immediate family members are not eligible
 - Members of the Network School operations team may participate but are not eligible for prizes (to avoid conflict of interest)
-- One submission per individual or team. Multiple submissions will result in only the last submission being evaluated
+- Multiple submissions are allowed, but each must be a distinct project — not variants or duplicates of the same work. Only one prize is awarded per individual or team regardless of how many entries they submit.
 - Teams have a size limit of 5, but only **one prize is awarded per winning team** (see Section 5)
 
 ### Local Entrant designation
@@ -95,6 +95,7 @@ All submissions are judged together on the same rubric (Section 8) — there is 
 - **Intended use:** The stipend is intended to fund a one-month stay at Network School (Forest City, Malaysia). Winners pick the month, subject to NS application and availability. Travel, visa applications, accommodation, and any costs related to the NS stay are the winner's responsibility — the $1,500 is intended to cover these costs at the winner's discretion.
 - **If a winner cannot or chooses not to attend NS, they keep the stipend.**
 - **One prize per team.** If a winning team has multiple members, the team receives one stipend ($1,500). How the team splits the stipend (and who, if anyone, attends NS) is the team's responsibility.
+- **One prize per individual or team across all entries.** If a participant or team submits multiple projects and more than one ranks in the prize positions, only the highest-ranked entry claims a prize slot. The remaining slot(s) cascade to the next eligible submission.
 - **KYC is required to claim the prize, not to enter.** All team members must complete KYC individually before funds are disbursed. The stipend is sent to a single wallet address confirmed by all team members during the KYC process. See Section 7.
 - **Prize is non-transferable** except as described in the runner-up policy (Section 6).
 - **Tax obligations** are the winner's sole responsibility. The Organizer does not provide tax advice and will not withhold taxes.

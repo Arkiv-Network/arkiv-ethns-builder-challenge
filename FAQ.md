@@ -62,7 +62,7 @@ Yes. The team size limit is 5 members. There's only one prize per winning team â
 All team members must complete KYC, and the $1,500 is sent to one wallet confirmed by the whole team. See [RULES Section 7](RULES.md#7-kyc--prize-disbursement) for the full disbursement process.
 
 **Can I submit more than one project?**
-No. One submission per individual or team. If you submit multiple times, only the last submission counts.
+Yes â€” but each entry must be a distinct project, not variants or duplicates of the same work. If more than one of your submissions ranks in a prize position, only one prize is awarded. The other slot cascades to the next eligible submission.
 
 **Can I update my submission after submitting?**
 Yes. The form allows edits until the deadline (May 25 23:59 SGT). After the deadline, submissions are final.
