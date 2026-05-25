@@ -1,5 +1,8 @@
 # Arkiv × ETHNS Builder Challenge — FAQ
 
+> [!IMPORTANT]
+> **⚠️ Submission deadline extended by 48 hours.** Some builders hit platform issues with the Braga testnet, so we've extended the deadline. Submissions now close **Wednesday 27 May 2026 at 23:59 UTC**.
+
 ---
 
 ### General
@@ -65,7 +68,7 @@ All team members must complete KYC, and the $1,500 is sent to one wallet confirm
 Yes — but each entry must be a distinct project, not variants or duplicates of the same work. If more than one of your submissions ranks in a prize position, only one prize is awarded. The other slot cascades to the next eligible submission.
 
 **Can I update my submission after submitting?**
-Yes. The form allows edits until the deadline (May 25 23:59 SGT). After the deadline, submissions are final.
+Yes. The form allows edits until the deadline (May 27 23:59 UTC). After the deadline, submissions are final.
 
 **What's required in my submission?**
 Your chosen theme(s), public GitHub repo, working demo URL, README with setup instructions, and the completed submission form. Full details in [RULES.md](RULES.md).
@@ -169,7 +172,7 @@ The rubric is theme-agnostic. "Arkiv integration depth" means the same thing whe
 Judging panel will be confirmed and announced soon. The Network School operations team does not judge.
 
 **Can I get feedback on my submission?**
-Winners get feedback through the announcement Space on May 29. Individual feedback for non-winners may happen post-challenge but isn't guaranteed.
+Winners get feedback through the announcement Space on May 31. Individual feedback for non-winners may happen post-challenge but isn't guaranteed.
 
 ---
 
