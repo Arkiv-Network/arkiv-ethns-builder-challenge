@@ -27,7 +27,7 @@ The official rules, guides, and resources for the **Arkiv × ETHNS Builder Chall
 - **AI tools allowed.** Copilot, Claude, ChatGPT, etc. are all encouraged.
 - **Demo video:** Optional at submission, required for prize claim (2–3 min).
 - **Open source required.** MIT, Apache 2.0, or equivalent.
-- **Build window:** May 16–25, 2026 (9 days). Submissions close May 25 23:59 SGT.
+- **Build window:** May 16–25, 2026 (9 days). Submissions close May 27 23:59 UTC.
 
 ## Arkiv Resources
 

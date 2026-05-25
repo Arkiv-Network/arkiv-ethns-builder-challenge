@@ -1,5 +1,8 @@
 # Arkiv × ETHNS Builder Challenge
 
+> [!IMPORTANT]
+> **⚠️ Submission deadline extended by 48 hours.** Some builders hit platform issues with the Braga testnet, so we've extended the deadline. Submissions now close **Wednesday 27 May 2026 at 23:59 UTC**.
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/74e971a3-2fa9-4713-872d-11929a911188" />
 
 ---
@@ -55,15 +58,18 @@ For more information on the themes, check out our **[Builder's Guide](docs/build
 
 ## Timeline
 
-| Date          | What                                                                       |
-| :------------ | :------------------------------------------------------------------------- |
-| **May 1–14**  | Pre-challenge content — X Spaces, online workshops                         |
-| **May 15**    | **Arkiv 101 Workshop** — IRL @ Network School                              |
-| **May 16**    | **Submissions open / Challenge kickstart** — during ETHNS EVM Day          |
-| **May 23–24** | ETHNS Open Days — Open Hardware + Privacy. Final-push activations IRL @ NS |
-| **May 25**    | **Submissions close** — 23:59 UTC                                          |
-| **May 26–28** | Judging                                                                    |
-| **May 29**    | **Winners announced** — live X Space with the judging panel                |
+> [!NOTE]
+> **Updated 25 May 2026** — the submission deadline was extended by 48 hours due to Braga testnet issues. The **May 27**, **May 28–30**, and **May 31** rows below reflect the revised schedule.
+
+| Date          | What                                                                            |
+| :------------ | :------------------------------------------------------------------------------ |
+| **May 1–14**  | Pre-challenge content — X Spaces, online workshops                              |
+| **May 15**    | **Arkiv 101 Workshop** — IRL @ Network School                                   |
+| **May 16**    | **Submissions open / Challenge kickstart** — during ETHNS EVM Day               |
+| **May 23–24** | ETHNS Open Days — Open Hardware + Privacy. Final-push activations IRL @ NS      |
+| **May 27**    | **Submissions close** — 23:59 UTC *(updated)*                                   |
+| **May 28–30** | Judging *(updated)*                                                             |
+| **May 31**    | **Winners announced** — live X Space with the judging panel *(updated)*         |
 
 *The Organizer reserves the right to adjust these dates. Any changes will be communicated via Discord and official channels. See [RULES.md](RULES.md) for full terms.*
 

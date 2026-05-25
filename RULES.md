@@ -1,5 +1,8 @@
 # Arkiv × ETHNS Builder Challenge — Official Rules & Terms
 
+> [!IMPORTANT]
+> **⚠️ Submission deadline extended by 48 hours.** Some builders hit platform issues with the Braga testnet, so we've extended the deadline. Submissions now close **Wednesday 27 May 2026 at 23:59 UTC**.
+
 ---
 
 ## 1. Overview
@@ -34,9 +37,9 @@ The Network School operations team remains excluded from prizes regardless of Lo
 - **Pre-challenge content:** May 1–14, 2026 (X Spaces, online workshops)
 - **Arkiv 101 Workshop (IRL @ NS):** May 15, 2026
 - **Submissions open / Challenge kickstart:** May 16, 2026 (during ETHNS EVM Day)
-- **Submissions close:** May 25, 2026 at 23:59 UTC
-- **Judging period:** May 26–28, 2026
-- **Winners announced:** May 29, 2026 (live X Space with the judging panel)
+- **Submissions close:** May 27, 2026 at 23:59 UTC
+- **Judging period:** May 28–30, 2026
+- **Winners announced:** May 31, 2026 (live X Space with the judging panel)
 
 Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and the official Network School channels.
 
