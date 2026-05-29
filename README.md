@@ -1,7 +1,27 @@
 # Arkiv × ETHNS Builder Challenge
 
 > [!IMPORTANT]
-> **⚠️ Submission deadline extended by 48 hours.** Some builders hit platform issues with the Braga testnet, so we've extended the deadline. Submissions now close **Wednesday 27 May 2026 at 23:59 UTC**.
+> **This challenge has ended.** 36 teams submitted across the AI, Privacy, and DePIN themes. Thanks to everyone who built with us. See the [winners](#winners) and [all submissions](#submissions) below.
+
+## Winners
+
+Two winning teams, each receiving a **$1,500 USDC** stipend toward a one-month stay at Network School.
+
+### Cortex
+
+An AI that remembers and forgets the way people do — fresh thoughts stay short-lived and fade for free on Arkiv, while the memories you actually use in decisions graduate into lasting rules. Memory is wallet-owned and RaBitQ-compressed, with an MCP server and Claude plugin bundled so any agent gets a portable digital twin instead of amnesia every session.
+
+**Theme:** AI · Privacy
+[GitHub](https://github.com/LingSiewWin/Cortex) · [Demo](https://cortex-arkiv.vercel.app/) · [Video](https://www.loom.com/share/68178caad4034e8282ac412a440e0738)
+
+### Ark Hive
+
+Makes agent memory a first-class, portable asset on Arkiv. Mint an ERC-8004 agent, then every session, message, scoped memory and hash-chained snapshot is written to Arkiv — signed by your own wallet, not theirs. Ships `arkiv-agent-sdk` on npm so any app can read another agent's memory and keep writing to it.
+
+**Theme:** AI · Privacy · Hybrid
+[GitHub](https://github.com/Philotheephilix/ark-hive) · [Demo](https://ark-hive-network.vercel.app) · [Video](https://canva.link/eosghvj0gql6eec)
+
+---
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/74e971a3-2fa9-4713-872d-11929a911188" />
 
@@ -94,7 +114,7 @@ One prize per winning team — how the team splits the stipend (and who attends 
 
 ## Judges
 
-Judging panel will be confirmed and announced soon.
+Submissions were reviewed by the Arkiv team against the published [scoring rubric](docs/scoring-rubric.md) — Arkiv integration depth, functionality, design & UX, and code quality.
 
 ---
 
@@ -125,5 +145,50 @@ Judging panel will be confirmed and announced soon.
 | **Submit**                 | [forms.arkiv.network/ethns-arkiv-challenge](https://forms.arkiv.network/ethns-arkiv-challenge)                                        |
 | **Arkiv Discord**          | [Join](https://discord.gg/arkiv) → [**#ethns-arkiv-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) |
 | **Data Explorer feedback** | The Explorer is in Beta — [report bugs or gaps](https://github.com/Arkiv-Network/reported-issues/issues/new/choose) |
+
+---
+
+## Submissions
+
+36 projects shipped across the AI, Privacy, and DePIN themes (many hybridised). Winners marked ★.
+
+| Project | Theme | Code | Demo |
+| :------ | :---- | :--- | :--- |
+| ★ **Cortex** | AI · Privacy | [GitHub](https://github.com/LingSiewWin/Cortex) | [Demo](https://cortex-arkiv.vercel.app/) |
+| ★ **Ark Hive** | AI · Privacy · Hybrid | [GitHub](https://github.com/Philotheephilix/ark-hive) | [Demo](https://ark-hive-network.vercel.app) |
+| Ark-Agent | AI | [GitHub](https://github.com/neutr0ncodes/ark-agent) | [Demo](https://ark-agent.vercel.app) |
+| Arkiv Gate | Hybrid | [GitHub](https://github.com/leocagli/arkivgate) | [Demo](https://arkivgate.vercel.app/) |
+| Arkiv Lantern | AI | [GitHub](https://github.com/JR-Vickers/arkiv_lantern) | [Demo](https://jarrettvickers.com/arkiv_lantern/) |
+| Arkiv Smart Home | DePIN · Hybrid · AI | [GitHub](https://github.com/JustAnotherDevv/Arkiv-Smart-Home) | [Demo](https://arkiv-smart-home.vercel.app) |
+| Arkivox | Privacy | [GitHub](https://github.com/armsves/arkivox) | [Demo](https://arkivox.vercel.app/) |
+| ArkivRoom | Privacy | [GitHub](https://github.com/AltcoinDaddy/ArkivRoom) | [Demo](https://arkiv-room.vercel.app/) |
+| Arkmy | Hybrid | [GitHub](https://github.com/Gabrululu/Arkmy) | [Demo](https://arkmy.vercel.app) |
+| Care Passport | AI · Privacy · Hybrid | [GitHub](https://github.com/sudharshanx/arkiv) | [Demo](https://arkiv-vert.vercel.app/) |
+| Casebook | AI · Privacy · Hybrid | [GitHub](https://github.com/DivyanshGoel20/casebook) | [Demo](https://casebook-arkiv.netlify.app/) |
+| ClearShield | AI · Privacy | [GitHub](https://github.com/ADD1xD/ClearShield) | [Demo](https://clear-shield.vercel.app) |
+| Credchain | Hybrid | [GitHub](https://github.com/xElvolution/credchain) | [Demo](https://credchain-theta.vercel.app/) |
+| espresso | DePIN | [GitHub](https://github.com/devesh1011/espresso) | [Demo](https://espe-dashboard.vercel.app) |
+| Exo | Hybrid | [GitHub](https://github.com/flourishchuks80-ux/Exo) | [Demo](https://exo-xi.vercel.app) |
+| Fact Receipts | AI · Hybrid | [GitHub](https://github.com/chinesepowered/hack-arkhivn) | [Demo](https://hack-arkhivn.vercel.app/) |
+| Fhedin | AI · Privacy | [GitHub](https://github.com/phamdat721101/privacy-context) | [Demo](https://privacy-context-frontend.vercel.app/) |
+| HealthArkiv | Privacy | [GitHub](https://github.com/N1n4CH/HealthArkiv) | [Demo](https://health-arkiv.vercel.app) |
+| holomem | AI · Privacy | [GitHub](https://github.com/jijojohny/holomem) | [Demo](https://holomem-dashboard.vercel.app) |
+| Len3 | AI · Privacy | [GitHub](https://github.com/Len3hq/sealvault) | [Demo](https://sealvault.len3.xyz/) |
+| Liberators | AI | [GitHub](https://github.com/leocagli/Liberators) | [Demo](https://v0-liberators.vercel.app/) |
+| MeshOWN | DePIN · Privacy | [GitHub](https://github.com/asdspal/meshown) | [Demo](https://meshown.tantragya.in) |
+| Mnemos | Hybrid | [GitHub](https://github.com/warfield2016/mnemos) | [Demo](https://mnemos-psi.vercel.app/) |
+| ModifierVault | Hybrid | [GitHub](https://github.com/beaconsmith/arkiv-modifier-vault) | [Demo](https://modifiervault.vercel.app/) |
+| Neuralgrid | Hybrid | [GitHub](https://github.com/Linmuk/neuralgrid) | — |
+| Nomos Data | Hybrid | [GitHub](https://github.com/leocagli/nomos-data) | [Demo](https://nomosdata.vercel.app/) |
+| OpenClu | DePIN · Privacy · Hybrid | [GitHub](https://github.com/marshal-AM/openclu) | [Demo](https://openclu-dashboard.vercel.app) |
+| Proof OS | DePIN | [GitHub](https://github.com/roh1nxd/proof-os) | [Demo](https://proof-os-six.vercel.app/) |
+| ProofForge Lite | Privacy · AI | [GitHub](https://github.com/Devpen787/proofforge-lite-arkiv) | [Demo](https://proofforge-lite-arkiv.vercel.app) |
+| Pulse | DePIN · Hybrid | [GitHub](https://github.com/richydon/pulse) | [Demo](https://pulse-tau-two.vercel.app/) |
+| RecallKit | AI · Privacy | [GitHub](https://github.com/Meriem-BM/recall-kit) | [Demo](https://recall-kit-web.vercel.app) |
+| Redline | Privacy | [GitHub](https://github.com/Ticoworld/redline) | [Demo](https://redline-teal.vercel.app) |
+| Sidebrain | DePIN | [GitHub](https://github.com/Jovian-Dsouza/sidebrain) | [Demo](https://sidebrain.somehow.dev/) |
+| VEIL | Privacy | [GitHub](https://github.com/fulegod/veil) | [Demo](https://web-eta-hazel-33.vercel.app) |
+| Vitalchain | Hybrid | [GitHub](https://github.com/Rarktech/vitalchain) | [Demo](https://vitalchain-nextjs.vercel.app) |
+| voisss | AI · Hybrid | [GitHub](https://github.com/thisyearnofear/voisss) | [Demo](https://voisss.netlify.app/) |
 
 ---

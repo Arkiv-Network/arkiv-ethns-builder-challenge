@@ -1,7 +1,7 @@
 # Arkiv × ETHNS Builder Challenge — FAQ
 
 > [!IMPORTANT]
-> **⚠️ Submission deadline extended by 48 hours.** Some builders hit platform issues with the Braga testnet, so we've extended the deadline. Submissions now close **Wednesday 27 May 2026 at 23:59 UTC**.
+> **This challenge has ended.** Submissions closed 27 May 2026. See the [winners and all submissions](README.md#winners) in the README.
 
 ---
 
